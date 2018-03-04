@@ -36,10 +36,10 @@
         <div class="phone">
             <div id="photoCarousel" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target=#photoCarousel data-slide-to="0" class="active"></li>
-                    <li data-target=#photoCarousel data-slide-to="1"></li>
-                    <li data-target=#photoCarousel data-slide-to="2"></li>
-                    <li data-target=#photoCarousel data-slide-to="3"></li>
+                    <li data-target="#photoCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#photoCarousel" data-slide-to="1"></li>
+                    <li data-target="#photoCarousel" data-slide-to="2"></li>
+                    <li data-target="#photoCarousel" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner">
                 
@@ -67,11 +67,11 @@
                         </a>
                     </div>
                 </div>
-                <a class="left carousel-control" href=#photoCarousel data-slide="prev">
+                <a class="left carousel-control" href="#photoCarousel" data-slide="prev">
                   <span class="glyphicon glyphicon-chevron-left"></span>
                   <span class="sr-only">Previous</span>
                 </a>
-                <a class="right carousel-control" href=#photoCarousel data-slide="next">
+                <a class="right carousel-control" href="#photoCarousel" data-slide="next">
                   <span class="glyphicon glyphicon-chevron-right"></span>
                   <span class="sr-only">Next</span>
                 </a>

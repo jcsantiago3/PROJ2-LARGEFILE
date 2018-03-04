@@ -1,16 +1,15 @@
-<h3 >Warrior Defense</h3>
 <div class="panel panel-default">
     <div class="panel-header">
         <div class="non-phone">
             <div class="row">
                 <div class="col-sm-9">
-                <img style="width:100%;" src="../testphotos/green_background_2-wallpaper-1920x1080.jpg" alt="Los Angeles">
+                <img style="width:100%;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon1.jpg" alt="Los Angeles">
                 </div>
                 <div class="col-sm-3">
                     <div class="row">
                         <div class="col-sm-12">
                             <a data-toggle="modal" data-target="#secondphoto">
-                                <img style="width: 100%;" src="../testphotos/kadali_nikon_d5100_sample_photo-wallpaper-1920x1080.jpg" alt="Chicago">
+                                <img style="width: 100%; cursor: hand;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon2.jpg" alt="Chicago">
                             </a>
                         </div>
                     </div>
@@ -18,7 +17,7 @@
                         <div class="col-sm-12">
                             <a data-toggle="modal" data-target="#thirdphoto">
                                 <br>
-                                <img style="width:100%;" src="../testphotos/sample_brews-wallpaper-1920x1080.jpg" alt="New York">
+                                <img style="width:100%; cursor: hand;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon3.jpg" alt="New York">
                             </a>
                         </div>
                     </div>
@@ -26,7 +25,7 @@
                         <div class="col-sm-12">
                             <a data-toggle="modal" data-target="#fourthphoto">
                                 <br>
-                                <img style="width:100%;" src="../testphotos/tree_flower-wallpaper-1920x1080.jpg" alt="New York">
+                                <img style="width:100%; cursor: hand;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon4.jpg" alt="New York">
                             </a>
                         </div>
                     </div>
@@ -36,42 +35,42 @@
         <div class="phone">
             <div id="photoCarousel" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                    <li data-target="#photoCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#photoCarousel" data-slide-to="1"></li>
+                    <li data-target="#photoCarousel" data-slide-to="2"></li>
+                    <li data-target="#photoCarousel" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner">
                 
                     <div class="item active">
                         <a data-toggle="modal" data-target="#firstphoto">
-                            <img src="../testphotos/green_background_2-wallpaper-1920x1080.jpg" alt="Los Angeles">
+                            <img src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon1.jpg" alt="Los Angeles">
                         </a>
                     </div>
 
                     <div class="item">
                         <a data-toggle="modal" data-target="#secondphoto">
-                            <img src="../testphotos/kadali_nikon_d5100_sample_photo-wallpaper-1920x1080.jpg" alt="Chicago">
+                            <img src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon2.jpg" alt="Chicago">
                         </a>
                     </div>
 
                     <div class="item">
                         <a data-toggle="modal" data-target="#thirdphoto">
-                            <img src="../testphotos/sample_brews-wallpaper-1920x1080.jpg" alt="New York">
+                            <img src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon3.jpg" alt="New York">
                         </a>
                     </div>
 
                     <div class="item">
                         <a data-toggle="modal" data-target="#fourthphoto">
-                            <img src="../testphotos/tree_flower-wallpaper-1920x1080.jpg" alt="New York">
+                            <img src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon4.jpg" alt="New York">
                         </a>
                     </div>
                 </div>
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                <a class="left carousel-control" href="#photoCarousel" data-slide="prev">
                   <span class="glyphicon glyphicon-chevron-left"></span>
                   <span class="sr-only">Previous</span>
                 </a>
-                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                <a class="right carousel-control" href="#photoCarousel" data-slide="next">
                   <span class="glyphicon glyphicon-chevron-right"></span>
                   <span class="sr-only">Next</span>
                 </a>
@@ -97,12 +96,13 @@
     <div class="panel-footer"><h4>Get it on</h4>
 <img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
 </div>
+</div>
 <div class="modal fade" id="firstphoto">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <img style="width: 100%;" src="../testphotos/green_background_2-wallpaper-1920x1080.jpg" alt="Los Angeles">
+                <img style="width: 100%;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon1.jpg" alt="Los Angeles">
             </div>
         </div>
     </div>
@@ -112,7 +112,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <img style="width: 100%;" src="../testphotos/kadali_nikon_d5100_sample_photo-wallpaper-1920x1080.jpg" alt="Chicago">
+                <img style="width: 100%;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon2.jpg" alt="Chicago">
             </div>
         </div>
     </div>
@@ -122,7 +122,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <img style="width: 100%;" src="../testphotos/sample_brews-wallpaper-1920x1080.jpg" alt="New York">
+                <img style="width: 100%;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon3.jpg" alt="New York">
             </div>
         </div>
     </div>
@@ -132,7 +132,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <img style="width: 100%;" src="../testphotos/tree_flower-wallpaper-1920x1080.jpg" alt="New York">
+                <img style="width: 100%;" src="../assets/img/gamesheaderphotos/dragonsnack/pageheader-dragon4.jpg" alt="New York">
             </div>
         </div>
     </div>

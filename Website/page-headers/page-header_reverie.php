@@ -1,7 +1,5 @@
-<h1 class="h3name">Warrior Defense</h1>
+<hr>
 <div class="panel panel-default">
-
-</div>
     <div class="panel-header">
         <div class="non-phone">
             <div class="row">
@@ -108,6 +106,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 <div class="modal fade" id="secondphoto">
     <div class="modal-dialog">
