@@ -1,0 +1,473 @@
+@import url('https://fonts.googleapis.com/css?family=Cantarell');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+
+
+html,
+body {
+    width: 100%;
+    height: fit-content;
+    margin: 0;
+    padding: 0;
+}
+
+.maincontent {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.maincontent.push.static{
+    height: initial;
+    overflow-y: auto;
+}
+    
+.maincontent.push.static .header{
+    position: fixed;
+}
+
+.header {
+    position: absolute;
+    background-color: #555;
+    height: 70px;
+    padding: 0px 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    z-index: 2;
+    width: 100%;
+}
+
+.header .logo {
+    flex: 1 auto;
+}
+
+.header .logo img {
+    position: absolute;
+    top: 20px;
+    max-width: 120px;
+    margin-left: 15px;
+}
+
+/*Navigation*/
+
+.header .nav {
+    display: flex;
+    flex: 0 1 40%;
+    margin-right: -15px;
+}
+
+
+.nav-item:hover {
+    cursor: pointer;
+}
+
+.header .nav .nav-item {
+    padding: 15px;
+    color: #FFF;
+    background-color: #555;
+    text-transform: uppercase;
+    font-style: normal;
+    text-align: center;
+    flex: 1 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .nav .menu-btn {
+    display: none;
+    background-color: #555;
+    border: none;
+    padding: 15px;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.header .nav .menu-btn:hover,
+.header .nav .menu-btn:active {
+    background-color: #FFF;
+    color: #555;
+}
+
+.header .nav .menu-btn:focus {
+    outline: none;
+}
+
+.content {
+    height: 100%;
+    padding: 70px 0 60px 0px;
+}
+
+.owl-carousel,
+.owl-stage-outer,
+.owl-stage,
+.owl-item {
+    height: 100%;
+}
+
+.owl-carousel .owl-item img {}
+
+.content .item {
+    padding: 50px 15px 15px 15px;
+    height: 100%;
+    overflow-y: auto;
+}
+
+/*Button Slide Control*/
+
+.owl-carousel button.nextSlideBtn,
+.owl-carousel button.homeSlideBtn {
+    border: none;
+    background-color: #FFF;
+    padding: 10px 15px;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-top: 2%;
+}
+
+.owl-carousel button.nextSlideBtn:focus,
+.owl-carousel button.homeSlideBtn:focus {
+    outline: none;
+}
+
+.owl-carousel button.button-outline {
+    border: 1px solid #141414;
+}
+
+/*Pushy Mobile nav*/
+
+.pushy {
+    background-color: #555;
+}
+
+.pushy-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.pushy-content ul:first-child {
+    margin: 0;
+}
+
+.pushy-content ul {
+    background-color: #555;
+}
+
+.pushy-content ul li {
+    color: #FFF;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.pushy-content ul li span {
+    font-style: normal!important;
+}
+
+.pushy-content ul li:hover {
+    background-color: #FFF;
+}
+
+.pushy-content ul li:hover {
+    color: #555;
+    cursor: pointer;
+}
+
+#subtitle {
+    color: #eee;
+    letter-spacing: 0.7vw;
+    text-transform: uppercase;
+}
+
+/*Customize the slides here*/
+
+.content .owl-item:nth-child(1) .item {
+    background-color: #02080D;
+}
+
+.content .owl-item:nth-child(2) .item {
+    background-color: #00703A;
+}
+
+.content .owl-item:nth-child(3) .item {}
+
+.content .owl-item:nth-child(4) .item {}
+
+.content .owl-item:nth-child(5) .item {
+    background-color: orange;
+}
+
+/*Dot navigation on the footer*/
+
+.carousel-dots {
+    width: 100%;
+    height: 60px;
+    /*    display: flex;
+    justify-content: center;
+    align-items: center;*/
+    /*    position: absolute;
+    bottom: 0;*/
+    z-index: 1;
+}
+
+.carousel-dots .owl-dot {
+    margin: 0 10px;
+}
+
+.carouselbuttons {
+    width: 33vw;
+    align-content: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.carousel-dots .owl-dot span {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 15px;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border: 2px solid #FFF;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.carousel-dots .owl-dot.active span,
+.carousel-dots .owl-dot span:hover {
+    background-color: #FFF;
+}
+
+footer {
+    background-color: #555;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    z-index: 10;
+
+}
+
+/*Slide 1*/
+
+.slide_1 .intro_logo {
+    max-width: 600px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Cantarell', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+button {
+    font-family: 'Press Start 2P', cursive;
+    display: inline-block;
+    color: lime;
+}
+
+.nextSlide {
+    user-select: none;
+    font-family: 'Press Start 2P', cursive;
+    border: 1px black solid;
+    background-color: #FFF;
+    color: lime;
+    padding: 10px 15px;
+    font-size: 1.2em;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 2%;
+}
+
+#titlescreen-text {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.nextSlide:hover {
+    cursor: pointer;
+}
+
+nav {
+    font-family: 'Cantarell', sans-serif;
+}
+
+.devs {
+    height: 450px;
+    overflow-y: scroll;
+}
+
+.devpics {
+
+    margin: 0 auto;
+    width: 50%;
+}
+
+.devpics img {
+    border-radius: 100%;
+}
+
+#slide-message {
+    text-align: center;
+    margin-top: 3vh;
+    color: #eee;
+    padding: 20px;
+
+}
+
+#slide-message p {
+    font-size: 3vh;
+}
+
+.game-titles {
+    display: block;
+    height: 60px;
+    clear: both;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: black;
+
+}
+
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    width: 90%;
+    max-width: 1200px;
+}
+
+.lightbox-slides {
+    display: none;
+}
+
+.games-icons {
+    width: 10%;
+    display: block;
+    float: left;
+}
+
+.game-container {
+    display: block;
+    background-color: white;
+    padding: 10px;
+    height: 450px;
+}
+
+.game-container:hover {
+    cursor: pointer;
+    background-color: lightgrey;
+}
+
+#howItAllStarted {
+    font-family: 'Press Start 2P', cursive;
+    text-transform: uppercase;
+    color: #309693;
+
+}
+
+.howItStartedInnerSlide {
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.distri-icons {
+    width: 30%;
+    display: block;
+}
+
+.distri-icons img {
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+.imagePlaceHolder {
+    width: 100%;
+    height: 300px;
+    border: 1px solid red;
+}
+
+.gamelightbox {
+    width: 80%;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.gifcontrol {
+    width: 100%;
+}
+
+.gifcontrol img {
+    width: 100%;
+}
+
+#playButtonImg {
+    display: block;
+    margin: 10px 5px;
+    width: 40px;
+    cursor: pointer;
+    background-color: #eee;
+    border-radius: 100%;
+}
+
+.para {
+    font-size: 2vh;
+    line-height: 3.5vh;
+}
+
+.sizetester {
+    width: 100%;
+    height: 630px;
+    border: black 1px solid;
+}
+
+
+
+
+@media (max-width: 600px) {
+    .header .nav {
+        justify-content: flex-end;
+    }
+    .header .nav .nav-item {
+        display: none;
+        margin: 0 -15px;
+    }
+    .header .nav .menu-btn {
+        display: block;
+    }
+
+    .carousel-dots .owl-dot {
+        margin: 0 5px;
+    }
+
+    .carousel-dots .owl-dot span {
+        width: 15px;
+        height: 15px;
+    }
+}

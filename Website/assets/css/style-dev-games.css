@@ -1,0 +1,132 @@
+.bgcolor{
+     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#171156+0,161728+100 */
+     background: #171156; /* Old browsers */
+     background: -moz-linear-gradient(top,  #171156 0%, #161728 100%); /* FF3.6-15 */
+     background: -webkit-linear-gradient(top,  #171156 0%,#161728 100%); /* Chrome10-25,Safari5.1-6 */
+     background: linear-gradient(to bottom,  #171156 0%,#161728 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#171156', endColorstr='#161728',GradientType=0 ); /* IE6-9 */
+}
+
+.games_img{
+    width: 100%;
+}
+.contentwidth{
+    width: 80%;
+    margin: 70px auto;
+}
+
+.devbanner{
+ width: 100%;
+ height: 300px;
+}
+
+.margintop{
+    margin-top: 30px;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+}
+
+.releasephoto{
+    border: 1px solid gray;
+    height: 300px;
+}
+
+.h3name{
+    width: 100%;
+    text-align: center;
+}
+
+.devmap{
+    width:100%;
+    height: 100px;
+    border: 1px solid gray;
+}
+
+.gamesitem{
+    border: 1px solid gray;
+    padding: 25px;
+}
+
+h1.center{
+    width: 100%;
+    text-align: center;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.footer{
+    background-color: #555;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    bottom: 0;
+    z-index: 10;
+}
+
+.mainphoto{
+    --widthmain:853px;
+    width: var(--widthmain);
+    height:calc(var(--widthmain)*9/16);
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.subphoto{
+    --width: 250px;
+    width: var(--width);
+    height:calc(var(--width)*9/16);
+    border: 1px solid black;
+    margin: 10px auto;
+}
+
+.top-margin{
+    margin-top: 10px;
+}
+
+@media (min-width: 1367px) and (max-width:1920px){
+    .non-phone{
+        display: block;
+    }
+    .phone{
+        display: none;
+    }
+}
+
+@media (max-width: 1366px) {
+    .non-phone{
+        display: block;
+    }
+    .phone{
+        display: none;
+    }
+    .mainphoto{
+        --widthmain:700px;
+        width: var(--widthmain);
+        height:calc(var(--widthmain)*9/16);
+        border: 1px solid black;
+        margin: 0 auto;
+    }
+
+    .subphoto{
+        --width: 198px;
+        width: var(--width);
+        height:calc(var(--width)*9/16);
+        border: 1px solid black;
+        margin: 10px auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .non-phone{
+        display:none;
+    }
+    .phone{
+        display: block;
+    }
+}

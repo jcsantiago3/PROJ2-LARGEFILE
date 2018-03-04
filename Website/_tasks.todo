@@ -1,0 +1,81 @@
+Projects:
+    ☐ * Anything with colon at the end of the line is a project title
+    ☐ * You can nest projects inside each other
+    ☐ * You can fold projects and sub projects
+    Folding and Indentation:
+
+        ☐ Random Task
+
+    Tasks:
+        New Task:
+            ☐ * Press Cmd+Enter (Ctrl+Enter on Windows and Linux) to add a new task
+            ☐ * You can also use the Command pallette to create a new task by typing To Do:New Task
+            ☐ * If you are on a new line, it will create a new task on the current line
+            ☐ * If you are on a line with some text pressing new task shortcut will convert it to a task
+            ☐ * New tasks are nested as much as the previous task
+        More Actions:
+            ✔ * Complete a task by pressing Alt+d @done
+            ☐ * Re-open a completed task by pressing Alt+d
+            ✘ * Cancel a task by pressing Alt+c @cancelled
+            ☐ * Complete a cancelled task by pressing Alt+d
+            ☐ * You can also use the Command pallette to complete or cancel a task by typing To Do:Complete Task or To Do:Cancel Task 
+        Tagging:
+            ☐ * You can add tags using @ sign, like this @tag
+            ☐ * You can use following pre-existing tags to mark tasks @critical @high @low @today
+            ☐ * Auto intellisense is provided to help you in finding tags
+
+Page:
+    Games:
+        ☐ Add all Games images 
+        ☐ Resize images to fit
+        ☐ Add information
+            ☐ Price
+            ☐ Developer
+            ☐ Links
+        ☐ Format boxes to make it visually pleasing
+    
+    Developers:
+        ✔ Add Banner @done (2018-2-8 15:53:18)
+        ✔ Add Most Recent Game Released @done (2018-2-8 15:53:27)
+        ✔ Add List of Games @done (2018-2-8 15:53:31)
+        ✔ Add About @done (2018-2-8 15:53:31)
+        ✔ Add Contact @done (2018-2-8 15:53:32)
+
+Game Pages (Only pages):
+    Coffee Brain Games:
+        ✔ Warrior Defense @done (2018-2-17 18:30:28)
+    Keybol Games:
+        ✔ Tower Fortress @done (2018-2-17 18:31:10)
+        ✔ Kill The Plumber @done (2018-2-17 18:31:11)
+        ✔ Pretentious Game @done (2018-2-17 18:31:11)
+        ✔ Overtake King @done (2018-2-17 18:31:12)
+        ☐ "And Many More" (directly linking to google play store page)
+    Altitude Games:
+        ✔ Holy Ship @done (2018-2-17 18:31:46)
+        ✔ Zodiac Pop @done (2018-2-17 18:31:47)
+        ✔ Run Run Super V @done (2018-2-17 18:31:47)
+        ✔ Dream Defense @done (2018-2-17 18:43:32)
+        ☐ "And Many More" (directly linking to games pages of website)
+    Chronicle Games:
+        ✔ Reverie @done (2018-2-17 18:47:04)
+        ✔ Secrets of Deep Earth Shrine @done (2018-2-17 18:47:51)
+        ✔ Endless Era @done (2018-2-17 18:48:50)
+        ✔ Dragon Snack @done (2018-2-17 18:49:12)
+        ☐ "And Many More" (directly linking to games pages of website)
+    Senshi Labs:
+        ✔ Brush Strokes @done (2018-2-17 18:49:43)
+        ✔ Mathoria: The Last Solution @done (2018-2-17 18:50:32)
+        ✔ Adarna: Alamat ni Maria Blanca @done (2018-2-17 18:51:00)
+        ✔ Book 1: Pisces @done (2018-2-17 18:51:31)
+        ☐ "And Many More" (directly linking to games pages of website)
+    Squeaky Wheel Games:
+        ✔ Political Animals @done (2018-2-17 18:52:29)
+        ✔ Academia: School Simulator @done (2018-2-17 18:52:52)
+    Lamina Studios:
+        ☐ Dungeon Souls
+    Yang Yang Mobile:
+        ☐ The Letter
+
+Out of topic:
+    ☐ Render brushstrokes pagebanner
+
