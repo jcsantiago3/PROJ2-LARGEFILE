@@ -11,7 +11,7 @@
                     <li><a href="">Developers</a></li>
                     <li><a href="">Coffee Brain Games</a></li>
                 </ol>
-                <div class="devbanner">DEVBANNER HERE</div>
+                <div class="devbanner coffeebrain"></div>
                 <h1 class="center">Coffee Brain Games</h1>
                 <hr>
                 <div class="recentrelease">

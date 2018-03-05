@@ -1,3 +1,5 @@
+/* Games Headers */
+
 .academia{
     background-image: url('../img/bannerimg/academiaschoolsimulator.png');
     background-size: cover;
@@ -116,6 +118,7 @@
     background-repeat: no-repeat;
     background-position-y: -45px;
 }
+
 .theletter{
     background-image: url('../img/bannerimg/theletter.png');
     background-size: cover;
@@ -139,6 +142,50 @@
 
 .zodiacpop{
     background-image: url('../img/bannerimg/zodiacpop.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
+
+/* Game Dev Headers */
+
+.coffeebrain{
+    background-image: url('../img/devheaderphotos/pageheader-coffeebraingames.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
+
+.altitudegames{
+    background-image: url('../img/devheaderphotos/pageheader-altitudegames.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
+
+.chroniclegames{
+    background-image: url('../img/devheaderphotos/pageheader-chroniclegames.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
+
+.senshilabs{
+    background-image: url('../img/devheaderphotos/pageheader-senshilabs.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
+
+.squeakywheel{
+    background-image: url('../img/devheaderphotos/pageheader-squeakywheel.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
+
+.yangyangmobile{
+    background-image: url('../img/devheaderphotos/pageheader-yangyangmobile.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: -45px;
