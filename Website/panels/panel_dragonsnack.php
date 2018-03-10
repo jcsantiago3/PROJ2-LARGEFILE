@@ -6,6 +6,7 @@
         <div class="panel-body">
             <h3>Dragon Snack</h3>
             <h4>Price: Free</h4>
+            <h4>Developer: <a href="../devs/page_chroniclegames.php">Chronicle Games</a></h4>
             <p>Ea dignissimos velit corrupti aperiam corporis fugit pariatur libero consequatur nam ipsam
                 ad, aut, mollitia ab consectetur dolor sed aspernatur!</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, a?</p>

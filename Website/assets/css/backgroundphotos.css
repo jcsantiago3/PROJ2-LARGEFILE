@@ -163,6 +163,12 @@
     background-position-y: -45px;
 }
 
+.laminastudios{
+    background-image: url('../img/devheaderphotos/pageheader-laminastudios.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
 .chroniclegames{
     background-image: url('../img/devheaderphotos/pageheader-chroniclegames.jpg');
     background-size: cover;
