@@ -169,6 +169,13 @@
     background-repeat: no-repeat;
     background-position-y: -45px;
 }
+
+.keybolgames{
+    background-image: url('../img/devheaderphotos/pageheader-keybolgames.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+}
 .chroniclegames{
     background-image: url('../img/devheaderphotos/pageheader-chroniclegames.jpg');
     background-size: cover;
