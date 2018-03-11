@@ -1,7 +1,7 @@
 <div class="col-lg-3">
     <div class="panel panel-default">
         <div class="panel-header">
-            <img src="../assets/img/devthumbnails/thumbnail-altitudegames.jpg" alt="" style="width: 100%;">
+            <img src="../assets/img/devthumbnails/thumbnail-laminastudios.jpg" alt="" style="width: 100%;">
         </div>
         <div class="panel-body">
             <h3>Coffee Brain Games</h3></a>

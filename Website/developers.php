@@ -16,15 +16,15 @@
             <div class="container">
                 <div class="row">
                     <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
-                    <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
-                    <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
-                    <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
+                    <a href=""><?php include "dev-panels/panels-chroniclegames.php"; ?></a>
+                    <a href=""><?php include "dev-panels/panels-coffeebrain.php"; ?></a>
+                    <a href=""><?php include "dev-panels/panels-keybolgames.php"; ?></a>
                     </div>
                 <div class="row">
-                    <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
-                    <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
-                    <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
-                    <a href=""><?php include "dev-panels/panels-altitudegames.php"; ?></a>
+                    <a href=""><?php include "dev-panels/panels-laminastudios.php"; ?></a>
+                    <a href=""><?php include "dev-panels/panels-senshilabs.php"; ?></a>
+                    <a href=""><?php include "dev-panels/panels-squeakywheelgames.php"; ?></a>
+                    <a href=""><?php include "dev-panels/panels-yangyangmobile.php"; ?></a>
                 </div>
             </div>
         </div>

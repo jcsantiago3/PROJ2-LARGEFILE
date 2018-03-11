@@ -71,8 +71,8 @@
                                 </div>
                                 <div class="item"> <!--Item 4-->
                                     <div class="row">
-                                        <a href="games//page_warriordefense.php"><?php include "panels/panel_warriordefense.php";?></a>
-                                        <a href="games//page_zodiacpop.php"><?php include "panels/panel_zodiacpop.php";?></a>
+                                        <a href="games/page_warriordefense.php"><?php include "panels/panel_warriordefense.php";?></a>
+                                        <a href="games/page_zodiacpop.php"><?php include "panels/panel_zodiacpop.php";?></a>
                                     </div>
                                 </div>
                             </div>
