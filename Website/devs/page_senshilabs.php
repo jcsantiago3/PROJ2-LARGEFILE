@@ -25,7 +25,7 @@
                     <?php include "../panels/panel_brushstrokes.php" ?>
                     <?php include "../panels/panel_mathoriathelastsolution.php" ?>
                 </div>
-                <?php include "../dev-contact/dev-contact_coffeebrain.php"; ?>
+                <?php include "../dev-contact/dev-contact_senshilabs.php"; ?>
             </div>
         </div>
         <?php include "../footer.php"; ?>

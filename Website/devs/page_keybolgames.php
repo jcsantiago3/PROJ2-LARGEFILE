@@ -16,7 +16,7 @@
                 <hr>
                 <div class="recentrelease">
                     <h1>Recent Release</h1>
-                    <?php include "../dev-headers/dev-header_towerdefense.php"; ?>
+                    <?php include "../dev-headers/dev-header_towerfortress.php"; ?>
                 </div>
                 <hr>
                 <div>

@@ -2,8 +2,8 @@
     <div class="row">
         <div class="col-lg-8">
             <h2>About</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et cum accusamus velit assumenda! Alias, ad! Dicta, veniam, a delectus accusantium tempore, maiores repellendus blanditiis cumque voluptate impedit vero! Minima maxime numquam voluptate vel voluptatibus sed velit illum facilis reprehenderit sit, harum, consectetur fugiat error alias, et architecto aut in eveniet.</p>
-            <p>Ratione, esse animi, dignissimos nostrum, qui praesentium sit voluptas recusandae sed accusamus exercitationem ipsum laboriosam est atque minus quisquam labore. Illo consectetur quae vitae ullam quo mollitia voluptatibus architecto velit suscipit itaque beatae error unde dolor laborum neque iusto odit, doloribus veniam quibusdam consequuntur vero accusamus est libero vel! Esse.</p>
+            <p>Lamina Studios was founded in January 2016 when the development of Dungeon Souls was in transition of October 2015. The studio continued the development of the said game led by April Gianan as Executive Producer. April teamed up with Diogo Braga and became the Lead Game Developer of Dungeon Souls. During the transition, the team collaborated with Igor Grincu (as Pixel Artist) and with many other collaborators from all over the world,</p>
+            <p>Lamina Studios' logo was designed by Paul Benedict Galvez, a De La Salle University Digital and Multimedia Arts student from the Philippines. The logo represents the creative and innovative team behind every project. Each member of the team demonstrates unique skill and talent which contributes immensely in fulfilling our project goals. The collaborative efforts of the team members result to a more productive and successful projects.</p>
         </div>
         <div class="col-lg-4">
             <h2>Contact</h2>

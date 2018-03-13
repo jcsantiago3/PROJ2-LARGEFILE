@@ -19,7 +19,7 @@
                     <?php include "../dev-headers/dev-header_academiaschoolsimulator.php"; ?>
                 </div>
                 <hr>
-                <?php include "../dev-contact/dev-contact_coffeebrain.php"; ?>
+                <?php include "../dev-contact/dev-contact_squeakywheelgames.php"; ?>
             </div>
         </div>
         <?php include "../footer.php"; ?>
