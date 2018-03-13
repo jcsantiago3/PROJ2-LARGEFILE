@@ -80,22 +80,27 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+    <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_chroniclegames.php">Chronicle Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
+        <h5>Released: Jun 28, 2016/h5>
         <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h3>About</h3>
+        <hr>
+        <p>A unique hybrid of clicker + idle games combined with RPG elements, Endless Era takes you to a sides-crolling fantasy world threatened by the portals with numerous tough enemies, as you fight your way through the different environments and locations of Ochem.
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <h4>CHOOSE YOUR AVATAR</h4>
+        <p>play as the Red Mage or the Blue Mage to lead your battle against Chaos. Tap the screen to have your avatar shoot projectiles against enemies and heal up your army in battle. Acquire upgrades to improve your avatar's tap attacks.</p>
+        <h4>HERO SYSTEM</h4>
+        <p>Call heroes in battle and unleash a variety of skills to turn the odds in your favor. Heroes have health and can temporarily be knocked out. Find shrines and summon new heroes to expand your army. Collect soulstones to evolve your heroes into stronger ones with more powerful skills.</p>
+        <h4>ACTIVE/PASSIVE ENDLESS MISSIONS</h4>
+        <p>Run endless missions to gather mana and soulstones. Complete mission goals to unlock new map locations for stronger monsters and more treasures. Run multiple missions to take advantage of your growing army. Heroes fight battles and progress on missions on their own during idle mode!</p>
+        <h4>QUESTS</h4>
+        <p>Complete quests to receive rewards that give you advantage in facing tougher enemies.</p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://play.google.com/store/apps/details?id=com.ChronicleGames.EndlessEra1&hl=en"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

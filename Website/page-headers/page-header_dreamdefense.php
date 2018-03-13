@@ -80,22 +80,30 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+    <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_altitudegames.php">Altitude Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
-        </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <h5>Released: Jan 28, 2016</h5>
+        <h5>Platform: iOS, Android</h5>
+        <h3>About</h3>
+        <hr>
+        <p>The night seems endless and full of terrors… Who will save Robin from her evil nightmares, if not her faithful and fierce teddy bear?</p>
+        <p>Are you able to protect your friend from bad dreams and monsters in this addictive action-shooter game? Can you survive until sunrise?</p>
+        <p>Play as a brave, gun-slinging toy bear and defend Robin from scary and sinister creatures that wait silently in the dead of the night, only to attack as soon as she falls asleep. </p>
+        <p>With a wide range of awesome weapons, upgrades, and power-ups at your disposal, use simple touch controls to shoot, bombard, blast, and freeze the enemy swarms. Challenge yourself to multiple levels, build toy defenses and defeat the evil bosses!</p>
+        <h4>A BRAVE BEAR NEVER SLEEPS</h4>
+        <p>Tap the screen to shoot monsters and save your friend! Only the toy bear knows what dangers lurk in the dark. From sunset to sunrise enemies swarm Robin’s room, so stay alert and watch out for the evil bosses!</p>
+        <h4>A SMART BEAR ALWAYS HAS A STRATEGY</h4>
+        <p>From fire-spewing clowns to giant ghouls, there’s no telling what creepy and spooky enemies Robin will dream of next. Find your enemy’s weakness and pick your arsenal wisely. Choose your best defense strategy and defeat all the creepy demons!</p>
+        <h4>A RESOURCEFUL BEAR IS ALWAYS PREPARED</h4>
+        <p>Equip yourself with several exciting weapons! Attack the nightmare demons with bb and poison guns, pepper sprays, darts and many, many more! Bombard your enemies with explosives or freeze them with ice-cream! Fortify Robin’s bed with all sorts of awesome toy defenses. Build pencil barricades to keep nightmares away, or equip laser lamps that shoot monsters from afar. </p>
+        <h4>A WARRIOR BEAR HAS THE BEST GEARS</h4>
+        <p>Unlock new items at the store by completing levels and shooting new enemies. Upgrade weapons and use power-ups to be even more powerful. Put your toy defense up and ultimately save your best friend from the evil monsters that lurk in the shadows.</p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://play.google.com/store/apps/details?id=com.altitude.dreamdefense&hl=en"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
+    <a href="https://itunes.apple.com/us/app/dream-defense/id1078573759?ls=1&mt=8"><img src="../assets/img/badges/ios-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

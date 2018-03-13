@@ -95,7 +95,7 @@
         </p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://senshilabs.itch.io/adarna2"><img src="../assets/img/badges/itchio-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

@@ -82,20 +82,28 @@
     <div class="panel-body">
         <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_coffeebrain.php">Coffee Brain Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
+        <h5>Released: Aug 5, 2014</h5>
         <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h3>About</h3>
+        <hr>
+        <p>An ancient rune has been rewritten, opening the gates to the world of Vulrexia, where an onslaught of creatures march through to the world of Hethir. Relentless and unyielding, the monstrous and machine-like Vulrexian race press toward the gates of the capital city of Rokuan. The city’s leaders scramble for defense, but only one with both the wits and courage can stand a chance to defend all life in the city. 
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>Warrior Defense brings to you a refreshing take on the tower defense genre. Every structure you build will call upon mighty heroes to defend the land against waves of attacking monsters. You'll be able to upgrade and support your heroes, as well as cast some spells that you unlock as you go through the game's story. Enjoy the battles in all their glory as Warrior Defense brings them to you in pixel art form, reminiscent of classic battles from the classic glory days. 
         </p>
+        <h4>Features:</h4>
+        <ul>
+            <li>Plan your defense as you call upon the city’s special army to defend from attacking Vulrexians invading the city! These invaders will engage your forces and not always run past your towers, so prepare for brawl! </li>
+            <li>Create strategies that utilize the magic of fire and ice mages, and the steel of knights in arms. Know the combinations and effectiveness of your spells to boost their usefulness in combat. </li>
+            <li>Clash in more battles as you upgrade your units to give them more powerful abilities. More unit types will be unlocked as you progress! Ever heard of a Storm Knight? </li>
+            <li> Don’t let your army fight alone! Provide support by throwing in spells of your own that might turn the tide of the battle. </li>
+            <li>Available on phones and tablets! </li>
+        </ul>
+        <p>You can also play a demo version directly in <a href="http://gamejolt.com/games/strategy-sim/warrior-defense/20805">Game&nbsp;Jolt</a></p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://play.google.com/store/apps/details?id=com.coffeebrain.tarsier&hl=en"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

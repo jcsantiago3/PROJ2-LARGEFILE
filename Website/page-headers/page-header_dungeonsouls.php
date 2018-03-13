@@ -80,22 +80,30 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+    <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_laminastudios.php">Lamina Studios</a>
         </h5>
         <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
+        <p>Dungeon Souls is an action-adventure roguelike dungeon crawler.
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>Each level is completely procedurally generated so every playthrough is guaranteed to have unique environments and encounters. Search for and activate all the marks placed in each level to unlock the dungeon portal and escape from the Redeemer. Scavenge various items and upgrades to counter the dungeon's dark forces and challenging bosses. You must survive. Hurry.
         </p>
+        <p>Dungeon Souls was inspired by Nuclear Throne, Risk of Rain, Overture, BitVenture and Shoot First.</p>
+        <h4>Features</h4>
+        <ul>
+            <li>Harness the powerful abilities of 10 unique characters</li>
+            <li>Explore a plethora of different environments including dark dungeons, sewers, and cathedrals</li>
+            <li>Immerse yourself with deep character progression and permanent skill upgrades</li>
+            <li>Experiment with 50+ unique passive items - Speed boosts, damage buffs, lifesteal bonuses...</li>
+            <li>Battle hordes of dynamic enemies and challenging bosses hell-bent on destroying you</li>
+        </ul>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="http://store.steampowered.com/app/383230/Dungeon_Souls/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

@@ -80,22 +80,25 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+    <h4>Price: P60.00</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_chroniclegames.php">Chronicle Games</a>
         </h5>
         <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
-        </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
+        <p>Dig your own path in this quirky strategy platformer. You play as Digsby, a miner with poor luck thrown to the depths of the earth in his first day on the job. Tasked by a floating head with the collection of ancient artifacts, Digsby must deploy a range of cunning traps to defeat monsters and break through the blocks. Will you survive the deep?</p> 
+        <p>It's dark underground, and every block presents a choice: to dig, or not to dig? You have the freedom to choose the path, and suffer the consequences!</p>
+        <ul>
+            <li>Unique trap-based combat: Use dynamite, landmines, spikes and more to avoid becoming a monster's breakfast. Face to face combat is rarely the answer.</li>
+            <li>Destructible environment: Besides normal dirt and stone, break special blocks to squish, blast and roast your enemies - or yourself!</li>
+            <li>Treasure & upgrades: Collect all the loot in the levels to unlock new upgrades. You'll jump higher, drill faster, bomb... harder?</li>
+            <li>10+ hours of gameplay: Unless you're really fast. In that case, you may finish it in nine.</li>
+        </ul> 
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="http://store.steampowered.com/app/451700/Secrets_of_Deep_Earth_Shrine"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 <div class="modal fade" id="firstphoto">
     <div class="modal-dialog">

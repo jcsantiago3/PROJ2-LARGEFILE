@@ -80,22 +80,30 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+    <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_altitudegames.php">Altitude Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: Aug 19, 2014</h5>
+        <h5>Platform: iOS, Android</h5>
+        <h3>About</h3>
+        <hr>
+        <p>Run. Ride. Volt In!
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>Be a hero and defend the world from the vile Emperor Negatron! Run through the city, get on your vehicle, and use your super robot to stop Negatron’s monsters from taking over the world!
         </p>
+        <h4>Action-packed runner</h4>
+        <p>Run through the city with simple tap controls. Collect power-ups and use weapons to defeat Negatron’s robot minions!</p>
+        <h4>Super fun vehicle mode</h4>
+        <p>Fly through the skies with the vehicle power-up! Collect bonus coins and blast through flying enemies with easy “tap-and-hold to fly, release to descend” controls</p>
+        <h4>Epic robot boss battles</h4>
+        <p>Your vehicles volt in to form a super robot! Customize your robot’s attacks (from arm rockets to a blazing sword!) and use them in real-time battles against giant monsters</p>
+        <h4>Level up for battle!r</h4>
+        <p>Run to level up and unlock new gear and robot battles! Lots of cool characters, items, and vehicles to collect and upgrade</p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://play.google.com/store/apps/details?id=com.altitude.rrsv&hl=en"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
+    <a href="https://itunes.apple.com/us/app/run-run-super-v/id1001009904?ls=1&mt=8"><img src="../assets/img/badges/ios-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

@@ -80,22 +80,39 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+    <h4>Price: P499.95</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_yangyangmobile.php">Yang Yang Mobile</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: July 25, 2017</h5>
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
+        <div class="alert alert-warning">
+            <strong>Content&nbsp;Warning!</strong> This game deals with mature themes. It shows scenes that some may find disturbing, unethical and triggering. It also contains offensive language, racial slurs, sexual themes, gore and violence. Player discretion is advised.   
+        </div>
+        <p>The Letter is an interactive, horror/drama visual novel inspired by classic Asian horror films, Ju-ON: The Grudge and The Ring. Told through an immersive branching narrative, the game puts the players into the shoes of seven characters as they find themselves falling prey to a vicious curse plaguing the Ermengarde Mansion for centuries. 
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>In this game, your choices will shape and drive the story forward: will you mend a relationship on the verge of collapse, or will you let it fall apart? Will you risk saving them, despite the consequences, or leave them to die a gruesome death? The fate of all the characters is in your hands.
         </p>
+        <ul>
+            <li>This is a hardcore visual novel. Expect a lot of reading!</li>
+            <li>Romance, friendship and drama; apart from horror, the game puts heavy emphasis on relationships and character development.</li>
+            <li>Non-chronological storytelling with seven chapters, spanning over 700,000 words across all routes.</li>
+            <li>Seven playable characters with varying personality and approach to difficult situations.</li>
+            <li>Countless butterfly effects; your choices heavily affect the story.</li>
+            <li>Full English Voice Acting (optional).</li>
+            <li>Animated backgrounds, CGs and sprites.</li>
+            <li>Beautifully painted art style, with over 80 backgrounds, 100 CGs and 50 Epilogue CGs (variations included).</li>
+            <li>Original soundtrack, with opening, ending and true ending theme songs.</li>
+            <li>Quick-Time Events (optional).</li>
+            <li>A branching tree that keeps track of your progress/route.</li>
+            <li>A journal that narrates the events in chronological order, and jots down the clues found about the Ermengarde Mansion.</li>
+            <li>Over 170 achievements.</li>
+        </ul>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="http://store.steampowered.com/app/460430/The_Letter__Horror_Visual_Novel/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">
