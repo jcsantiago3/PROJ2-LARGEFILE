@@ -8,7 +8,7 @@
         <div class="panel-footer">
             <a href="devs/page_coffeebrain.php" class="dev_button">Check Out Their Games</a>
             <br>
-            <a href="https://coffeebraingames.wordpress.com/" class="dev_button">Check Out Their Website Here</a>
+            <a href="http://www.yangyangmobile.com/" class="dev_button">Check Out Their Website Here</a>
         </div>
     </div>
 </div>
