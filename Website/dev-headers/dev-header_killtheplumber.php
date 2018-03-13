@@ -84,7 +84,9 @@
         <a href="../devs/page_keybolgames.php">Keybol</a>
         </h5>
         <h5>January 1 , 2016</h5>
-        <h5>Platform: iOS, Android, PC</h5>
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
         <p>Think of the first time you grabbed a controller and played as a character who rampaged through a world, killing everything in sight. Have you ever stopped to think how those little guys felt? Well now it's time for some payback! 
         </p>
         <p>Kill The plumber is a parody to other platformers. Your goal is to stop the 'protagonist' from winning each level. You start off as a slow minion who can't even jump, but has enough power to kill the hero. As you get the hang of it, you start playing as other enemies that can jump, shoot, stomp and even fly, sometimes controlling more than one character at a time! 

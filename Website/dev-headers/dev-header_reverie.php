@@ -85,6 +85,8 @@
         </h5>
         <h5>Released: Oct 4, 2017</h5>
         <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
         <p>An ambient, very simple game* with pseudo-puzzle elements, something you can leave open on a second monitor while you work.
         </p>
         <p>Experience this peaceful world through the eyes of a sentient pillowcase. Navigate dreamscapes and curious events best experienced, but not dwelt upon too much. After all, a dream is just a dream, right?</p>

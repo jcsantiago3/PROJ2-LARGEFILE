@@ -16,7 +16,7 @@
                 <hr>
                 <div class="recentrelease">
                     <h1>Recent Release</h1>
-                    <?php include "../dev-headers/dev-header_academiaschoolsimulator.php"; ?>
+                    <?php include "../dev-headers/dev-header_theletter.php"; ?>
                 </div>
                 <hr>
                 <div>

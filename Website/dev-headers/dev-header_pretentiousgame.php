@@ -85,6 +85,8 @@
         </h5>
         <h5>Released: Jan 2, 2014</h5>
         <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
         <p>Have you ever realized how words are important? And how they can drive our emotions?</p>
         <p>Enjoy the uncluttered and peculiar aesthetics of Pretentious Game and plunge wholeheartedly into a poetic and deep story. </p> 
         <p>Follow the adventures of a blue square passionately in love with his pink sweetheart, and help him bring his feelings to light. </p>

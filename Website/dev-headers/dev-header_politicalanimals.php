@@ -85,6 +85,8 @@
         </h5>
         <h5>Released: Nov 3, 2016</h5>
         <h5>Platform: PC</h5>
+        <h3>About</h3>  
+        <hr>
         <p>Political Animals is an election simulation game set within a world populated by corrupt crocodiles and meritocratic mice. In a political contest where corruption is always around the corner, find out just how incorruptible you really are. Do you have the integrity of Mousey or the ruthlessness of Croccy? Will you fight your campaign on issues and in the best interests of the people, or will you succumb to the easier path of bribery and intimidation? Will you win votes...or will you buy them? 
         </p>
         <p>Each turn you spend logistics to move your candidate and their staff around the political landscape to whip up popular support. Your choice of staff affects your strategy! A lawyer can settle your scandals, but a preacher can energize the population. Raise funds from the wealthy, give gifts to political patrons, or hold rallies to build grass-roots support from the electorate. Along the way, expect to encounter scandals both real and fabricated as well as random events that test your moral mettle.

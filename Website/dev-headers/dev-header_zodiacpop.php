@@ -81,20 +81,39 @@
     <div class="panel-body">
         <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_altitudegames.php">Altitude Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
-        </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <h5>May 12, 2016</h5>
+        <h5>Platform: iOS, Android</h5>
+        <p>Bubble shooter game meets astrology in this new, cute and addictive puzzle game! Join Zoe and her Jelly friend and find out your daily horoscope and lucky numbers and play dozens of fun and challenging levels!</p>
+        <p>Shoot bubbles in space to help Zoe and her jelly friends save the zodiac signs and beat the odds! In return, she'll read the stars and predict your future! It’s a fun bubble shooter game and daily horoscope reader in one. You can also check yours and your friend’s zodiac compatibility to find your match! </p>
+        <p>Choose your zodiac sign: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius or Pisces and start playing now!</p>
+        <h4>POP BUBBLES</h4>
+        <ul>
+            <li>Pop bubbles while you explore the galaxy together with Zoe in this cute and colourful bubble shooter game.</li>
+            <li>Burst bubbles with space bombs, burn through difficult levels with comets, and collect hundreds of stars! </li>
+            <li>Free all the zodiac signs: Gemini, Aries, Taurus, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces and find out what is written in your stars!</li>
+            <li>Play hundreds of fun and challenging levels and collect many awesome rewards!</li>
+        </ul>
+        <h4>DAILY HOROSCOPE</h4>
+        <ul>
+            <li>Pop bubbles and get your daily horoscope and your zodiac sign future for FREE every day!</li>
+            <li>Horoscopes will unlock as you progress through the galaxy and earn stars. </li>
+            <li>Complete dozens of exciting quests and awesome levels to discover your lucky numbers!</li>
+            <li>Match, pop and burst bubbles with Zoe and her jelly pals to get your future read from the stars!</li>
+            <li>Get readings for all zodiac signs: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces.</li>
+        </ul>
+        <h4>CONNECT WITH YOUR FRIENDS</h4>
+        <ul>
+            <li>Match with your friends on Facebook! </li>
+            <li>Pop bubbles to complete levels and then select a friend to see what the stars have to say about the two of you! </li>
+            <li>Connect to your friends with Facebook to find out what their signs are and your zodiac compatibility!</li>
+            <li>Play on different devices - log in with Facebook to save your progress across all devices</li>
+        </ul>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://play.google.com/store/apps/details?id=com.altitude.zodiacpop"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
+    <a href="https://itunes.apple.com/us/app/zodiac-pop!/id1078573571?ls=1&mt=8"><img src="../assets/img/badges/ios-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">
