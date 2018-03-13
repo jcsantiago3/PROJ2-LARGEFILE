@@ -79,22 +79,21 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: Name Your Own Price</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_senshilabs.php">Senshi Labs</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: Apr 21, 2017</h5>
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
+        <p>Waking up from a strange dream of falling upon flights of stairs, our main character faces an empty house with surreal properties, familiar objects and a seemingly parental being relaying reactions to her through text imprinted on objects. In reality, the character, later to be introduced as Lora, is actually within another dream. Her physical body still lying in bed trapped in a comatose state, while her mind is trying to piece memories of her upbringing and her family together, of which may later on decide her fate.
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>The core mechanic of Brushstrokes focuses on interactable items you find throughout the game that will help you rebuild your colorless home. These items serve as the puzzle elements to progress through the levels. Some items won't be interactable until a certain item/s is/are obtained. This forces players to search around for items that may be in relation to that inactive item.s.
         </p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://senshilabs.itch.io/brushstrokes"><img src="../assets/img/badges/itchio-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

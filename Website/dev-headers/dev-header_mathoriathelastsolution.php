@@ -79,22 +79,28 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: Name Your Price</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_senshilabs.php">Senshi Labs</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: Jan 23, 2017</h5>
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
+        <p>There is a world beyond Additio that is open for your exploration. Practice your subtraction, multiplication, and division skills, and find new friends to help along the way!
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <h4>Features</h4>
+        <ul>
+            <li>Original art, animation, and music courtesy of the core team.</li>
+            <li>Simple dialogues that should make it easier for very young children to understand.</li>
+            <li>Meet a new party member.</li>
+            <li>Fight new goons using subtraction, multiplication, and division.</li>
+            <li>Acquire new armor sets as you solve puzzles.</li>
+            <li>Help people who have problems with their mathematical operations.</li>
+        </ul>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://senshilabs.itch.io/mathoria2"><img src="../assets/img/badges/itchio-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

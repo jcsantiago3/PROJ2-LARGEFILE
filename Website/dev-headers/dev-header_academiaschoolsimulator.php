@@ -78,22 +78,36 @@
         </div>
     </div>
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: P499.99</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_squeakywheelgames.php">Squeaky Wheel Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: September 8, 2017</h5>
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
+        <p>From the artist of Prison Architect and the studio that brought you Political Animals comes Academia : School Simulator, a simulation game that lets you design, construct, and manage the high school of your dreams! Watch your students as they get bullied, find love, flunk exams, and basically just try to get through the roller-coaster ride that is high school. Will you offer the best teachers and facilities or cheap out and build giant classrooms with a 1:100 teacher to student ratio? It's all up to you!
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <h4>Complex Students</h4>
+        <p>Student motivation is driven by various needs, including hygiene, hunger, and discipline, and they'll become even more complex as time goes on, eventually competing in school competitions like spelling bees and even falling in love.
         </p>
+        <h4>Unique Faculty</h4>
+        <p>Teachers are unique, with different subject specialties and degrees. Eventually they will also have their own motivations that need to be satisfied so they can keep teaching at the highest level.</p>
+        <h4>Varied Facilities</h4>
+        <p>Build Canteens, Clinics, Computer Labs, Common Areas and much more as you create your dream Educational Complex.</p>
+        <h4>Micromanage Staff</h4>
+        <p>Do you think the janitors aren't doing a good job? Plot out their routes yourself in order to ensure maximum efficiency.</p>
+        <h4>Decorate Your School</h4>
+        <p>From potted plants to statues and fountains, we have everything to make your school the envy of all! And we'll keep adding decorative objects so that you can have a completely unique school.</p>
+        <h4>Have Fun With Mods!</h4>
+        <p>Students that look like zombies and eat brains? why not? Want to run a school where the students are literally prisoners? Whatever floats your boat! Image mods are available now, and language and other mods will follow in the future.</p>
+        <h4>Customize School Seal</h4>
+        <p>Customize your school seal and motto to make a school that is uniquely yours! </p>
+        <h4>Two Play Modes</h4>
+        <p>Normal mode requires you to balance your budget and provide the best education that you can with your money, while sandbox lets you go utopian with unlimited money!</p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+<a href="http://store.steampowered.com/app/672630/Academia__School_Simulator/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

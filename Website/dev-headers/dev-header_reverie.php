@@ -79,22 +79,24 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: P40.00</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_chroniclegames.php">Chronicle Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: Oct 4, 2017</h5>
+        <h5>Platform: PC</h5>
+        <p>An ambient, very simple game* with pseudo-puzzle elements, something you can leave open on a second monitor while you work.
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <p>Experience this peaceful world through the eyes of a sentient pillowcase. Navigate dreamscapes and curious events best experienced, but not dwelt upon too much. After all, a dream is just a dream, right?</p>
+        <ul>
+            <li>Click on objects to interact with them, press Z to zoom in/out</li>
+            <li>Alter the dreamscape through interaction chains</li>
+            <li>Unlock more dreamscapes by opening portals</li>
+            <li>But most of all, just enjoy. Even if it makes very little sense.</li>
+        </ul>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="http://store.steampowered.com/app/708850/Reverie/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 <div class="modal fade" id="firstphoto">
     <div class="modal-dialog">

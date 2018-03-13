@@ -81,20 +81,27 @@
     <div class="panel-body">
         <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_chroniclegames.php">Chronicle Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: October 2014</h5>
+        <h5>Platform: Android</h5>
+        <h3>About</h3>
+        <hr>
+        <p>Infinite burgers! Catch the burgers in your voracious dragon mouth! Only you have the skill and finesse required to become the ultimate burger receptacle. But beware all sea life: bomber fish, pyro lobsters, and the venomous starfish from hell -- touch a fish and it’s game over.
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>Dragon Snack is a lovingly crafted arcade game, built by a tiny team of people who would probably like you.
         </p>
+        <h4>Features</h4>
+        <ul>
+            <li>Pick Dragon Snack up and put it down whenever you want! Perfect for the train, bus, or whenever you're bored</li>
+            <li>Addictive play! Endless burgers</li>
+            <li>Challenge friends and strangers for the high score!</li>
+            <li>Unique play styles! Navigate the falling fish with your own terrible strategy!</li>
+            <li>Low environmental impact!</li>
+        </ul>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://play.google.com/store/apps/details?id=com.ChronicleGames.DragonSnack"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

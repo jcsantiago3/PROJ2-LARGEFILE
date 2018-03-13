@@ -10,7 +10,9 @@
             <div class="devmap">Dev Map</div>
             <p>Rm. 304 Grace Building Ortigas Avenue 1500</p>
             <h4>Email: sample@sample.com</h4>
-            <h4>Phone: +63-999-9999</h4>
+            <h4>Twitter: <a href="https://twitter.com/yangyangmobile">@yangyangmobile</a></h4>
+            <h4>Tumblr: <a href="http://yangyangmobile.tumblr.com/">yangyangmobile</a></h4>
+            <h4>Patreon: <a href="https://www.patreon.com/yangyangmobile">yangyangmobile</a></h4>
             <h4>Website: <a href="http://www.yangyangmobile.com/">http://www.yangyangmobile.com/</a></h4>
         </div>
     </div>

@@ -79,22 +79,37 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: P250.00</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_squeakywheelgames.php">Squeaky Wheel Games</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <h5>Released: Nov 3, 2016</h5>
+        <h5>Platform: PC</h5>
+        <p>Political Animals is an election simulation game set within a world populated by corrupt crocodiles and meritocratic mice. In a political contest where corruption is always around the corner, find out just how incorruptible you really are. Do you have the integrity of Mousey or the ruthlessness of Croccy? Will you fight your campaign on issues and in the best interests of the people, or will you succumb to the easier path of bribery and intimidation? Will you win votes...or will you buy them? 
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>Each turn you spend logistics to move your candidate and their staff around the political landscape to whip up popular support. Your choice of staff affects your strategy! A lawyer can settle your scandals, but a preacher can energize the population. Raise funds from the wealthy, give gifts to political patrons, or hold rallies to build grass-roots support from the electorate. Along the way, expect to encounter scandals both real and fabricated as well as random events that test your moral mettle.
         </p>
+        <p>This new turn-based strategy game is developed by Philippines-based studio Squeaky Wheel and published by Democracy-3 developers Positech Games. Political Animals features a large and continuously increasing set of playable characters, eight different maps and and infinite strategies you can employ to win over the population, district by district.</p>
+        <ul>
+            <li>
+                A bite-sized yet deep turn-based strategy game that you can play in 1-2 hour campaigns
+            </li>
+            <li>
+                Eight beautifully designed maps based on countries around the world
+            </li>
+            <li>
+                Numerous animal candidates to choose from and customize
+            </li>
+            <li>
+                Eight different staff types with special abilities to suit your campaign style
+            </li>
+            <li>
+                Political Events that draw inspiration from world politics
+            </li>
+        </ul>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="http://store.steampowered.com/app/458630/Political_Animals/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

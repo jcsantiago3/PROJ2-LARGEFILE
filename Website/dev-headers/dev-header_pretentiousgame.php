@@ -79,22 +79,19 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: P69.95</h4>
         <h5>Developed by:
         <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
         </h5>
         <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
-        </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <h5>Platform: PC</h5>
+        <p>Have you ever realized how words are important? And how they can drive our emotions?</p>
+        <p>Enjoy the uncluttered and peculiar aesthetics of Pretentious Game and plunge wholeheartedly into a poetic and deep story. </p> 
+        <p>Follow the adventures of a blue square passionately in love with his pink sweetheart, and help him bring his feelings to light. </p>
+        <p>Read between the lines of Pretentious Game to progress through the story, and let your feelings overcome you…</p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="http://store.steampowered.com/app/279540/Pretentious_Game/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

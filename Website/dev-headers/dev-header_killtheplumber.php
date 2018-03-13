@@ -79,22 +79,20 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: P165.95</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_keybolgames.php">Keybol</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
+        <h5>January 1 , 2016</h5>
         <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
+        <p>Think of the first time you grabbed a controller and played as a character who rampaged through a world, killing everything in sight. Have you ever stopped to think how those little guys felt? Well now it's time for some payback! 
         </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
+        <p>Kill The plumber is a parody to other platformers. Your goal is to stop the 'protagonist' from winning each level. You start off as a slow minion who can't even jump, but has enough power to kill the hero. As you get the hang of it, you start playing as other enemies that can jump, shoot, stomp and even fly, sometimes controlling more than one character at a time! 
         </p>
+        <p>It was a peaceful day in the kingdom, when all of a sudden a plumber decided to construct pipes everywhere and cause destruction. No matter what the critters throw at him, he kept coming back, and even tried to kidnap their princess. Stop him at any costs, otherwise your kingdom will burn...</p>
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="http://store.steampowered.com/app/420070/Kill_The_Plumber/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">

@@ -79,22 +79,20 @@
     </div>
     
     <div class="panel-body">
-        <h4>Price: FREE</h4>
+        <h4>Price: Name Your Price</h4>
         <h5>Developed by:
-        <a href="../devs/coffeebrain.html">Coffee Brain Games</a>
+        <a href="../devs/page_senshilabs.php">Senshi Labs</a>
         </h5>
-        <h5>Released: Jan 2, 2014</h5>
-        <h5>Platform: iOS, Android, PC</h5>
-        <p>Developed by Marnielle Estrada and his team under the name 'Coffee Brain Games', Warrior Defense
-            was one of the first few games that was released worldwide through the Google Play Store.
-        </p>
-        <p>Warrior Defense is a spin-off the "Tower Defense" genre where you buy towers and place towers
-            in pre-existing areas for your towers, but in Warrior Defense you buy units and place them
-            on the ground. Those units can move around to help in defending while you use your spells.
-        </p>
+        <h5>Released: Aug 25, 2016</h5>
+        <h5>Platform: PC</h5>
+        <h3>About</h3>
+        <hr>
+        <p>In the original 17th century Ibong Adarna tale by Jose de la Cruz, the Princesses Maria Blanca, Juana and Leonora were merely the girlfriends of the protagonist Prince Juan. At the end of the corrido, Juan picks Maria Blanca as his preferred wife, while the other two women became the wives of Juan's brothers, Pedro and Diego. All three women had interesting backgrounds, but the way they were treated in the story left something to be desired. This is a manuscript that is often discussed in Filipino literature classes, but the portrayal of women — either as damsels in distress or prizes to be chosen — are not empowering.</p> 
+        <p>Adarna: The Legend of Maria Blanca re-imagines what it would be like if these princesses' lives did not revolve around Juan or his brothers. Many regions of pre-Hispanic Philippines had matriarchal societies, and while the first Adarna game released by Senshi.Labs had a very Western feel to it, this sequel attempts to transport the players back to an indigeous pre-colonial atmosphere while keeping the language somewhat up to date.</p> 
+        <p>This adventure starts off in the Kingdom of Reinos de los Kristales, where the Princess Maria Blanca learns that her sister Isabela has fallen ill. A hermit approaches Maria to inform her that Isabela can only be cured by the mythical creature of Adarna. Maria then slips away from the kingdom and embarks on a quest to find the legendary bird.</p> 
     </div>
     <div class="panel-footer"><h4>Get it on</h4>
-<img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"> </div>
+    <a href="https://senshilabs.itch.io/adarna2"><img src="../assets/img/badges/itchio-badge.png" alt="Get it on Google Play"></a></div>
 </div>
 </div>
 <div class="modal fade" id="firstphoto">
