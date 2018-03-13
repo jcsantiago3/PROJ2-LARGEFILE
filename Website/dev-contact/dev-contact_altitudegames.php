@@ -8,9 +8,9 @@
         <div class="col-lg-4">
             <h2>Contact</h2>
             <div class="devmap">Dev Map</div>
-            <p>Rm. 304 Grace Building Ortigas Avenue 1500</p>
-            <h4>Email: sample@sample.com</h4>
-            <h4>Phone: +63-999-9999</h4>
+            <p>Unit 47 4/F Zeta II Building, 191 Salcedo Street, Legaspi Village Makati City 1229 Philippines., 1229 Manila, Philippines </p>
+            <h4>Facebook: <a href="http://www.facebook.com/altitudegames">altitudegames</a></h4>
+            <h4>Twitter: <a href="https://twitter.com/altitude_games">@altitude_games</a></h4>
             <h4>Website: <a href="http://www.altitude-games.com/">http://www.altitude-games.com/</a></h4>
         </div>
     </div>

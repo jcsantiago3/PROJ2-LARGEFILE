@@ -8,9 +8,9 @@
         <div class="col-lg-4">
             <h2>Contact</h2>
             <div class="devmap">Dev Map</div>
-            <p>Rm. 304 Grace Building Ortigas Avenue 1500</p>
-            <h4>Email: sample@sample.com</h4>
-            <h4>Phone: +63-999-9999</h4>
+            <p>Ricogen Building, 112 Aguirre Street Legazpi Village, Makati City, Metro Manila, Philippines</p>
+            <h4>Email: <a href="mailto:love@senshi.ph">love@senshi.ph</a></h4>
+            <h4>Facebook: <a href="https://www.facebook.com/senshi.labs/">/senshi.labs</a></h4>
             <h4>Website: <a href="http://senshi.ph/">http://senshi.ph/</a></h4>
         </div>
     </div>

@@ -10,7 +10,9 @@
             <div class="devmap">Dev Map</div>
             <p>Rm. 304 Grace Building Ortigas Avenue 1500</p>
             <h4>Email: sample@sample.com</h4>
-            <h4>Phone: +63-999-9999</h4>
+            <h4>Facebook: <a href="https://www.facebook.com/squeakyph/">/squeakyph</a></h4>
+            <h4>Twitter: <a href="https://twitter.com/squeakywheelph">@squeakywheelph</a></h4>
+            <h4>Youtube: <a href="https://www.youtube.com/channel/UCKHwmaaOq_XRULGaLGDojpg">Squeaky&nbsp;Wheel</a></h4>
             <h4>Website: <a href="http://www.squeakywheel.ph/">http://www.squeakywheel.ph/</a></h4>
         </div>
     </div>

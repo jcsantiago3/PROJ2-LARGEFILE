@@ -9,8 +9,8 @@
             <h2>Contact</h2>
             <div class="devmap">Dev Map</div>
             <p>Rm. 304 Grace Building Ortigas Avenue 1500</p>
-            <h4>Email: sample@sample.com</h4>
-            <h4>Phone: +63-999-9999</h4>
+            <h4>Facebook: <a href="https://www.facebook.com/keybolgames">/keybolgames</a></h4>
+            <h4>Twitter: <a href="https://twitter.com/keybol">@keybol</a> </h4>
             <h4>Website: <a href="http://www.keybolgames.com/">http://www.keybolgames.com/</a></h4>
         </div>
     </div>
