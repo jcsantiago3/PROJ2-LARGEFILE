@@ -1,7 +1,7 @@
 <div class="devaboutandcontact">
     <div class="row">
         <div class="col-lg-8">
-            <h2>About</h2>
+            <h2>About the developer</h2>
             <p>Yang Yang Mobile is a game development compay based in the Philippines. While, no office yet, they developed and published their first game, <a href="../games/page_theletter.php">The Letter</a></p>
         </div>
         <div class="col-lg-4">

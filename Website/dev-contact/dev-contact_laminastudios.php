@@ -1,7 +1,7 @@
 <div class="devaboutandcontact">
     <div class="row">
         <div class="col-lg-8">
-            <h2>About</h2>
+            <h2>About the developer</h2>
             <p>Lamina Studios was founded in January 2016 when the development of Dungeon Souls was in transition of October 2015. The studio continued the development of the said game led by April Gianan as Executive Producer. April teamed up with Diogo Braga and became the Lead Game Developer of Dungeon Souls. During the transition, the team collaborated with Igor Grincu (as Pixel Artist) and with many other collaborators from all over the world,</p>
             <p>Lamina Studios' logo was designed by Paul Benedict Galvez, a De La Salle University Digital and Multimedia Arts student from the Philippines. The logo represents the creative and innovative team behind every project. Each member of the team demonstrates unique skill and talent which contributes immensely in fulfilling our project goals. The collaborative efforts of the team members result to a more productive and successful projects.</p>
         </div>

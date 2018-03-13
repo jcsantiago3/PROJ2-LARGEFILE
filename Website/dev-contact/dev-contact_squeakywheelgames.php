@@ -1,7 +1,7 @@
 <div class="devaboutandcontact">
     <div class="row">
         <div class="col-lg-8">
-            <h2>About</h2>
+            <h2>About the developer</h2>
             <p>Squeaky Wheel Studio is an independent game development company based in the Philippines that aims to be a developer of thematically unique PC strategy and simulation games. We want to make entertaining games that bring attention to current affairs in developing countries. Squeaky Wheel is comprised of:</p>
         </div>
         <div class="col-lg-4">

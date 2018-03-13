@@ -1,7 +1,7 @@
 <div class="devaboutandcontact">
     <div class="row">
         <div class="col-lg-8">
-            <h2>About</h2>
+            <h2>About the developer</h2>
             <p>The brainchild of Dr. Beatrice M.V. Lapa, Senshi.Labs’ ultimate goal is to develop free but fun educational games. Through collaborations with various teams of artists, designers and programmers, we also create entertainment video games in order to fund our edutainment projects. In line with the ultimate goal, our vision is to be able to create games we’ll enjoy making as much as people will enjoy playing.</p>
         </div>
         <div class="col-lg-4">
