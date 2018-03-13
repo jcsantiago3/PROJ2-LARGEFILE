@@ -16,13 +16,9 @@
                 <hr>
                 <div class="recentrelease">
                     <h1>Recent Release</h1>
-                    <?php include "../dev-headers/dev-header_academiaschoolsimulator.php"; ?>
+                    <?php include "../dev-headers/dev-header_warriordefense.php"; ?>
                 </div>
                 <hr>
-                <div>
-                    <h3>Other Games</h3>
-                    <?php include "../panels/panel_warriordefense.php" ?>
-                </div>
                 <?php include "../dev-contact/dev-contact_coffeebrain.php"; ?>
             </div>
         </div>

@@ -19,10 +19,6 @@
                     <?php include "../dev-headers/dev-header_dungeonsouls.php"; ?>
                 </div>
                 <hr>
-                <div>
-                    <h3>Other Games</h3>
-                    <?php include "../panels/panel_dungeonsouls.php" ?>
-                </div>
                 <?php include "../dev-contact/dev-contact_laminastudios.php"; ?>
             </div>
         </div>

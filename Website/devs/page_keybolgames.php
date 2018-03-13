@@ -22,6 +22,7 @@
                 <div>
                     <h3>Other Games</h3>
                     <?php include "../panels/panel_killtheplumber.php" ?>
+                    <?php include "../panels/panel_pretentiousgame.php" ?>
                 </div>
                 <?php include "../dev-contact/dev-contact_keybolgames.php"; ?>
             </div>

@@ -83,7 +83,7 @@
         <h5>Developed by:
         <a href="../devs/page_altitudegames.php">Altitude Games</a>
         </h5>
-        <h5>May 12, 2016</h5>
+        <h5>Released: May 12, 2016</h5>
         <h5>Platform: iOS, Android</h5>
         <p>Bubble shooter game meets astrology in this new, cute and addictive puzzle game! Join Zoe and her Jelly friend and find out your daily horoscope and lucky numbers and play dozens of fun and challenging levels!</p>
         <p>Shoot bubbles in space to help Zoe and her jelly friends save the zodiac signs and beat the odds! In return, she'll read the stars and predict your future! It’s a fun bubble shooter game and daily horoscope reader in one. You can also check yours and your friend’s zodiac compatibility to find your match! </p>

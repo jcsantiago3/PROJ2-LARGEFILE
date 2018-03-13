@@ -16,14 +16,14 @@
                 <hr>
                 <div class="recentrelease">
                     <h1>Recent Release</h1>
-                    <?php include "../dev-headers/dev-header_dreamdefense.php"; ?>
+                    <?php include "../dev-headers/dev-header_zodiacpop.php"; ?>
                 </div>
                 <hr>
                 <div>
                     <h3>Other Games</h3>
-                    <?php include "../panels/panel_warriordefense.php" ?>
+                    <?php include "../panels/panel_runrunsuperv.php" ?>
                 </div>
-                <?php include "../dev-contact/dev-contact_coffeebrain.php"; ?>
+                <?php include "../dev-contact/dev-contact_altitudegames.php"; ?>
             </div>
         </div>
         <?php include "../footer.php"; ?>

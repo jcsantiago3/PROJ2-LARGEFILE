@@ -19,10 +19,6 @@
                     <?php include "../dev-headers/dev-header_academiaschoolsimulator.php"; ?>
                 </div>
                 <hr>
-                <div>
-                    <h3>Other Games</h3>
-                    <?php include "../panels/panel_warriordefense.php" ?>
-                </div>
                 <?php include "../dev-contact/dev-contact_coffeebrain.php"; ?>
             </div>
         </div>
