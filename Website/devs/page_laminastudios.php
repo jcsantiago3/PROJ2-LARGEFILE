@@ -8,11 +8,11 @@
         <div class="contentpage contentwidth container">
             <div class="item">
                 <ol class="breadcrumb">
-                    <li><a href="">Developers</a></li>
-                    <li><a href="">Coffee Brain Games</a></li>
+                    <li><a href="../developers.php">Developers</a></li>
+                    <li><a href="../devs/page_laminastudios.php">Lamina Studios</a></li>
                 </ol>
                 <div class="devbanner laminastudios"></div>
-                <h1 class="center">Coffee Brain Games</h1>
+                <h1 class="center">Lamina Studios</h1>
                 <hr>
                 <div class="recentrelease">
                     <h1>Recent Release</h1>
