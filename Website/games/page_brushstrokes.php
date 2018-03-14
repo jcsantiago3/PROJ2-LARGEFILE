@@ -9,10 +9,10 @@
         <div class="container contentpage contentwidth">
             <div class="item">
                 <ol class="breadcrumb">
-                    <li><a href="">Developers</a></li>
-                    <li><a href="">Squeaky Wheel Games</a></li>
-                    <li><a href="">Games</a></li>
-                    <li><a href="">Warrior Defense</a></li>
+                    <li><a href="../developers.php">Developers</a></li>
+                    <li><a href="../devs/page_senshilabs.php">Senshi Labs</a></li>
+                    <li><a href="../games.php">Games</a></li>
+                    <li><a href="../games/page_brushstrokes.php">Brushstrokes</a></li>
                 </ol>
                 <div class="devbanner brushstrokes"></div>
                 <?php include "../page-headers/page-header_brushstrokes.php";
