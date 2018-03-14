@@ -49,29 +49,28 @@
                                     <div class="row">
                                         <a href="games/page_dungeonsouls.php"><?php include "panels/panel_dungeonsouls.php";?></a>
                                         <a href="games/page_endlessera.php"><?php include "panels/panel_endlessera.php";?></a>
-                                        <a href="games/page_holyship.php"><?php include "panels/panel_holyship.php";?></a>
+                                        <a href="games/page_killtheplumber.php"><?php include "panels/panel_killtheplumber.php"; ?></a>
                                     </div>
                                     <div class="row">
-                                        <a href="games/page_killtheplumber.php"><?php include "panels/panel_killtheplumber.php"; ?></a>
                                         <a href="games/page_mathoriathelastsolution.php"><?php include "panels/panel_mathoriathelastsolution.php"; ?></a>
                                         <a href="games/page_politicalanimals.php"><?php include "panels/panel_politicalanimals.php"; ?></a>
+                                        <a href="games/page_pretentiousgame.php"> <?php include "panels/panel_pretentiousgame.php"; ?> </a>
                                     </div>
                                 </div>
                                 <div class="item"> <!--Item 3-->
                                     <div class="row">
-                                        <a href="games/page_pretentiousgame.php"> <?php include "panels/panel_pretentiousgame.php"; ?> </a>
                                         <a href="games/page_reverie.php"> <?php include "panels/panel_reverie.php"; ?> </a>
                                         <a href="games/page_runrunsuperv.php"> <?php include "panels/panel_runrunsuperv.php"; ?> </a>
+                                        <a href="games/page_sodes.php"><?php include "panels/panel_secretsofdeepearthshrine.php"; ?></a>
                                     </div>
                                     <div class="row">
-                                        <a href="games/page_sodes.php"><?php include "panels/panel_secretsofdeepearthshrine.php"; ?></a>
                                         <a href="games/page_theletter.php"><?php include "panels/panel_theletter.php"; ?></a>
                                         <a href="games/page_towerfortress.php"><?php include "panels/panel_towerdefense.php"; ?></a>
+                                        <a href="games/page_warriordefense.php"><?php include "panels/panel_warriordefense.php";?></a>
                                     </div>
                                 </div>
                                 <div class="item"> <!--Item 4-->
                                     <div class="row">
-                                        <a href="games/page_warriordefense.php"><?php include "panels/panel_warriordefense.php";?></a>
                                         <a href="games/page_zodiacpop.php"><?php include "panels/panel_zodiacpop.php";?></a>
                                     </div>
                                 </div>
