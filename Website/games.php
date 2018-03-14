@@ -11,16 +11,6 @@
                 <ol class="breadcrumb">
                     <li><a href="">Games</a></li>
                 </ol>
-                <div class="dropdown">
-                    <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
-                        Sort by <span class="caret"></span>
-                    </button>
-                    <ul class="dropdown-menu">
-                        <li><a href="">List</a></li>
-                        <li><a href="">List</a></li>
-                        <li><a href="">List</a></li>
-                    </ul>
-                </div>
                 <h1> Games </h1>
                 <div class="panel panel-default">
                     <div class="carousel" id="gamesCarousel" data-ride="carousel" data-interval="false">
