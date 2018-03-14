@@ -1,7 +1,7 @@
 <div class="col-lg-4">
     <div class="panel panel-default">
         <div class="panel-header">
-            <img src="../assets/img/gamethumbnails/thumbnail_zodiacpop.jpg" alt="">
+            <img src="../assets/img/gamethumbnails/thumbnail_zodiacpop.jpg" alt="" style="width: 100%;">
         </div>
         <div class="panel-body">
             <h3>Zodiac Pop</h3>
