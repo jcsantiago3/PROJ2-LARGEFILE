@@ -3,15 +3,16 @@
         <?php include "head.php"; ?>
     </head>
 
-    <body>
+    <body class="bgcolor">
         <?php include "nav.php";
         ?>
         <div class="container contentpage contentwidth">
             <div class="item">
                 <ol class="breadcrumb">
-                    <li><a href="">Games</a></li>
+                    <li><a href="../games.php">Games</a></li>
                 </ol>
                 <h1> Games </h1>
+                <hr>
                 <div class="panel panel-default">
                     <div class="carousel" id="gamesCarousel" data-ride="carousel" data-interval="false">
                         <ol class="carousel-indicators black indicators-color">

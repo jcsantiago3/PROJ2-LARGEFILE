@@ -3,7 +3,7 @@
         <?php include "head.php"; ?>
     </head>
 
-    <body>
+    <body class="bgcolor">
         <?php include "nav.php"; ?>
         <div class="content contentpage contentwidth">
 

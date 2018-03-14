@@ -17,7 +17,7 @@
  
              <div class="nav">
                  <a href="history.php" class="navlogo"><img src="assets/img/logo.png" style="display: block; width: 200px;" alt=""></a>
-                 <a href="history.php">
+                 <a href="history.php" class="nav-item">
                      <span>History</span>
                  </a>
                  <a href="games.php" class="nav-item"><span>Games</span></a>

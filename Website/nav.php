@@ -14,7 +14,7 @@
     <!-- Header -->
     <div class="header">
         <div class="nav">
-            <a href="index.html" class="nav-item" id="historytab">
+            <a href="../index.php" class="nav-item" id="historytab">
                 <span>History</span>
             </a>
             <a href="../games.php" class="nav-item" id="gamestab">
@@ -24,7 +24,7 @@
                 <span>Developers</span>
             </a>
             <a href="thedevsstory.com/forum" class="nav-item">Forum</a>
-            <a href="about.html" class="nav-item" id="abouttab">
+            <a href="../about.php" class="nav-item" id="abouttab">
                 <span>About</span>
             </a>
             <button class="menu-btn">&#9776;</button>
