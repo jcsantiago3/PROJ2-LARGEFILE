@@ -10,17 +10,17 @@
     </div>
 </nav>
 <div class="site-overlay"></div>
-<div class="maincontent push">
+<div class="maincontent push static">
     <!-- Header -->
     <div class="header">
         <div class="nav">
             <a href="index.html" class="nav-item" id="historytab">
                 <span>History</span>
             </a>
-            <a href="games.php" class="nav-item" id="gamestab">
+            <a href="../games.php" class="nav-item" id="gamestab">
                 <span>Games</span>
             </a>
-            <a href="developers.html" class="nav-item" id="devtab">
+            <a href="../developers.php" class="nav-item" id="devtab">
                 <span>Developers</span>
             </a>
             <a href="thedevsstory.com/forum" class="nav-item">Forum</a>
@@ -29,10 +29,4 @@
             </a>
             <button class="menu-btn">&#9776;</button>
         </div>
-        <div class="search-boxes">
-                <form action="">
-                    <input type="text" name="search_box" class="search_box">
-                    <button name="search" class="search_button btn btn-default">Search</button>
-                </form>
-            </div>
     </div>
