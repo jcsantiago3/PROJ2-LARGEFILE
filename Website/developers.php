@@ -9,7 +9,7 @@
             <ol class="breadcrumb">
                 <li><a href="../developers.php">Developers</a></li>
             </ol>
-            <h1>Developers</h1>
+            <h1 class="whitetext">Developers</h1>
             <hr>
             <div class="row">
                 <a href="devs/page_altitudegames.php"><?php include "dev-panels/panels-altitudegames.php"; ?></a>

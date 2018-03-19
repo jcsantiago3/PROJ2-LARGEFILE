@@ -124,6 +124,19 @@ hr {
     }
 }
 
+.midtext{
+    width: fit-content;
+    margin:  auto;
+}
+
+.whitetext{
+    color: #ccc;
+}
+
+.footertext{
+    font-size: 50%;
+}
+
 @media (max-width: 768px) {
     .non-phone{
         display:none;

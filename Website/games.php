@@ -11,7 +11,7 @@
                 <ol class="breadcrumb">
                     <li><a href="../games.php">Games</a></li>
                 </ol>
-                <h1> Games </h1>
+                <h1 class="whitetext"> Games </h1>
                 <hr>
                 <div class="panel panel-default">
                     <div class="carousel" id="gamesCarousel" data-ride="carousel" data-interval="false">
