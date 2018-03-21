@@ -7,7 +7,7 @@
             <h3>Altitude Games</h3></a>
         </div>
         <div class="panel-footer">
-            <a href="devs/page_coffeebrain.php" class="dev_button">Check Out Their Games</a>
+            <a href="../devs/page_altitudegames.php" class="dev_button">Check Out Their Games</a>
             <br>
             <a href="http://www.altitude-games.com/" class="dev_button">Check Out Their Website Here</a>
         </div>

@@ -9,10 +9,10 @@
         <div class="container contentpage contentwidth">
             <div class="item">
                 <ol class="breadcrumb">
-                    <li><a href="">Developers</a></li>
-                    <li><a href="">Squeaky Wheel Games</a></li>
-                    <li><a href="">Games</a></li>
-                    <li><a href="">Warrior Defense</a></li>
+                    <li><a href="../developers.php">Developers</a></li>
+                    <li><a href="../devs/page_keybolgames.php">Keybol Games</a></li>
+                    <li><a href="../games.php">Games</a></li>
+                    <li><a href="../games/page_pretentiousgame.php">Pretentious Game</a></li>
                 </ol>
                 <div class="devbanner pretentiousgame"></div>
                 <?php include "../page-headers/page-header_pretentiousgame.php";

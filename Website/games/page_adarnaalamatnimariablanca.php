@@ -9,10 +9,10 @@
         <div class="container contentpage contentwidth">
             <div class="item">
                 <ol class="breadcrumb">
-                    <li><a href="">Developers</a></li>
-                    <li><a href="">Squeaky Wheel Games</a></li>
-                    <li><a href="">Games</a></li>
-                    <li><a href="">Warrior Defense</a></li>
+                    <li><a href="../developers.php">Developers</a></li>
+                    <li><a href="../devs/page_senshilabs.php">Senshi Labs</a></li>
+                    <li><a href="../games.php">Games</a></li>
+                    <li><a href="../games/page_adarnaalamatnimariablanca.php">Adarna: Alamat ni Maria Blanca</a></li>
                 </ol>
                 <div class="devbanner adarna"></div>
                 <?php include "../page-headers/page-header_adarnaalamatnimariablanca.php";

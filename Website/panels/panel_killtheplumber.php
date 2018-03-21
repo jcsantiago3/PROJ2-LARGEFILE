@@ -7,13 +7,10 @@
             <h3>Kill the Plumber</h3>
             <h4>Price: Free</h4>
             <h4>Developer: <a href="../devs/page_keybolgames.php">Keybol Games</a></h4>
-            <p>Ea dignissimos velit corrupti aperiam corporis fugit pariatur libero consequatur nam ipsam
-                ad, aut, mollitia ab consectetur dolor sed aspernatur!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, a?</p>
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>
-            <img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play">
+            <a href="http://store.steampowered.com/app/420070/Kill_The_Plumber/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a>
         </div>
     </div>
 </div>

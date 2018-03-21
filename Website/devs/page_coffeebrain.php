@@ -8,8 +8,8 @@
         <div class="contentpage contentwidth container">
             <div class="item">
                 <ol class="breadcrumb">
-                    <li><a href="">Developers</a></li>
-                    <li><a href="">Coffee Brain Games</a></li>
+                    <li><a href="../developers.php">Developers</a></li>
+                    <li><a href="../devs/page_coffeebrain.php">Coffee Brain Games</a></li>
                 </ol>
                 <div class="devbanner coffeebrain"></div>
                 <h1 class="center">Coffee Brain Games</h1>

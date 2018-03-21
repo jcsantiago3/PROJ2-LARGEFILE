@@ -6,14 +6,11 @@
         <div class="panel-body">
             <h3>Adarna: Alamat ni Maria Blanca</h3>
             <h4>Price: Free</h4>
-            <h4>Developer: <a href="../devs/page_senshilabs.php">senshi.labs</a></h4>
-            <p>Ea dignissimos velit corrupti aperiam corporis fugit pariatur libero consequatur nam ipsam
-                ad, aut, mollitia ab consectetur dolor sed aspernatur!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, a?</p>
+            <h4>Developer: <a href="../devs/page_senshilabs.php">senshi labs</a></h4>
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>
-            <img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play">
+            <a href="https://senshilabs.itch.io/adarna2"><img src="../assets/img/badges/itchio-badge.png" alt="Get it on Google Play"></a>
         </div>
     </div>
 </div>

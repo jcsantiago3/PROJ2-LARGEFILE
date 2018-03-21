@@ -54,10 +54,12 @@ h1.center{
 }
 
 hr {
-    border: 0;
+    display: block;
     height: 1px;
-    background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
 }
 
 .footer{
@@ -120,6 +122,19 @@ hr {
         border: 1px solid black;
         margin: 10px auto;
     }
+}
+
+.midtext{
+    width: fit-content;
+    margin:  auto;
+}
+
+.whitetext{
+    color: #ccc;
+}
+
+.footertext{
+    font-size: 50%;
 }
 
 @media (max-width: 768px) {

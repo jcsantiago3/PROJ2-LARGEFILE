@@ -1,8 +1,8 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/css/bootstrap-theme.min.css">
-<!-- <link rel="stylesheet" href="../assets/css/pushy.css"> -->
-<!-- <link rel="stylesheet" href="../assets/css/style.css"> -->
+<link rel="stylesheet" href="../assets/css/pushy.css">
+<link rel="stylesheet" href="../assets/css/style.css">
 <link rel="stylesheet" href="../assets/css/style-dev-games.css">
 <link rel="stylesheet" href="../assets/css/backgroundphotos.css">
 

@@ -16,13 +16,14 @@
          <div class="header">
  
              <div class="nav">
-                 <a href="#" class="navlogo"><img src="assets/img/logo.png" style="display: block; width: 200px;" alt=""></a>
-                 <a href="#" class="nav-item" id="historytab">
+                 <a href="index.php" class="navlogo"><img src="assets/img/logo.png" style="display: block; width: 200px;" alt=""></a>
+                 <a href="index.php" class="nav-item">
                      <span>History</span>
                  </a>
-                 <a href="#" class="nav-item" id="gamestab"><span>Games</span></a>
-                 <a href="#" class="nav-item" id="devtab"><span>Developers</span></a>
-                 <a class="nav-item" id="abouttab"><span>About</span></a>
+                 <a href="games.php" class="nav-item"><span>Games</span></a>
+                 <a href="developers.php" class="nav-item"><span>Developers</span></a>
+                 <a href="" class="nav-item"><span>Forums</span></a>
+                 <a href="about.php" class="nav-item"><span>About</span></a>
                  <button class="menu-btn">&#9776;</button>
  
              </div>

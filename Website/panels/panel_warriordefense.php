@@ -7,13 +7,10 @@
             <h3>Warrior Defense</h3>
             <h4>Price: Free</h4>
             <h4>Developer: <a href="../devs/page_coffeebrain.php">Coffee Brain</a></h4>
-            <p>Ea dignissimos velit corrupti aperiam corporis fugit pariatur libero consequatur nam ipsam
-                ad, aut, mollitia ab consectetur dolor sed aspernatur!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, a?</p>
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>
-            <img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play">
+            <a href="https://play.google.com/store/apps/details?id=com.coffeebrain.tarsier&hl=en"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
         </div>
     </div>
 </div>
