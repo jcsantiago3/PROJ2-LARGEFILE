@@ -62,13 +62,10 @@ hr {
     padding: 0; 
 }
 
-.footer{
+.footerXD{
     background-color: #555;
     width: 100%;
     height: 60px;
-    display: flex;
-    bottom: 0;
-    z-index: 10;
 }
 
 .mainphoto{
