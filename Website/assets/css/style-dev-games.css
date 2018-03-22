@@ -134,8 +134,14 @@ hr {
 }
 
 .footertext{
-    font-size: 50%;
+    font-size: 75%;
 }
+
+.absolute{
+    position: static;
+    right: 0;
+}
+
 
 @media (max-width: 768px) {
     .non-phone{

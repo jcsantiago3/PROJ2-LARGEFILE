@@ -33,7 +33,12 @@
                     <h2>Sources</h2>
                 </div>
                 <div class="panel-body">
-                    <p>Test</p>
+                    <div class="hiddencontent collapse" id="sources">
+                        <p>Test</p>
+                    </div>    
+                </div>
+                <div class="panel-footer">
+                <button class="btn btn-primary" data-toggle="collapse" data-target="#sources">Show Sources</button>
                 </div>
             </div>
         </div>
