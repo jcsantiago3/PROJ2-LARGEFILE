@@ -1,7 +1,7 @@
 <nav class="pushy pushy-right">
     <div class="pushy-content">
         <ul>
-            <li class="pushy-link"><span>History</span>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="index.php">History</a></span>
             </li>
             <li class="pushy-link"><span>Games</span></li>
             <li class="pushy-link"><span>Developers</span></li>
@@ -13,7 +13,7 @@
 <div class="site-overlay"></div>
 <div class="maincontent push static">
     <!-- Header -->
-    <div class="header">
+    <div class="Header">
         <div class="nav">
             <div>
                 <!--navphoto-->
