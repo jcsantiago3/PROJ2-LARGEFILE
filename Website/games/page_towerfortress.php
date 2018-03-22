@@ -15,12 +15,12 @@
                     <li><a href="../games/page_towerfortress.php">Tower Fortress</a></li>
                 </ol>
                 <div class="devbanner towerfortress"></div>
-                <?php include "../page-headers/page-header_towerdefense.php";
+                <?php include "../page-headers/page-header_towerfortress.php";
                 ?>
             </div>
             <hr>
             <div>
-                <h2>Reviews</h2>
+                <h2 class="whitetext">Reviews</h2>
             </div>
         </div>
         <?php include "../footer.php" ?>

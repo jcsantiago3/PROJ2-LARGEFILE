@@ -28,7 +28,7 @@
             <a href="../developers.php" class="nav-item" id="devtab">
                 <span>Developers</span>
             </a>
-            <a href="../forum" class="nav-item">Forum</a>
+            <a href="../forum/" class="nav-item">Forum</a>
             <a href="../about.php" class="nav-item" id="abouttab">
                 <span>About</span>
             </a>

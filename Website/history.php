@@ -34,7 +34,7 @@
                 <a href="developers.php" class="nav-item">
                     <span>Developers</span>
                 </a>
-                <a href="" class="nav-item">
+                <a href="../forum/" class="nav-item">
                     <span>Forums</span>
                 </a>
                 <a href="about.php" class="nav-item">
