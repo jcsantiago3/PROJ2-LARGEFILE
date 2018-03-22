@@ -15,8 +15,9 @@
     <!-- Header -->
     <div class="header">
         <div class="nav">
-            <div >
-                <img src="../assets/img/logo.png" alt="" style="width:100%; margin-top: 12%;">
+            <div>
+                <!--navphoto-->
+                <img src="../assets/img/logo.png" alt="" style="width:100%; margin-top:12%"> 
             </div>
             <a href="../index.php" class="nav-item" id="historytab">
                 <span>History</span>

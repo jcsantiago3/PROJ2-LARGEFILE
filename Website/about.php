@@ -39,7 +39,16 @@
                 <div class="panel-body">
                     <div class="hiddencontent collapse" id="sources">
                         <h3>Images</h3>
-                        <p></p>
+                        <p>The images used in the games pages and the developers pages are modified versions of the images (including logos) are all owned by:</p>
+                        <ul>
+                            <li>a</li>
+                            <li>b</li>
+                            <li>v</li>
+                            <li>c</li>
+                            <li>d</li>
+                            <li>cas</li>
+                            <li>dasd</li>
+                        </ul>
                         <h3>Documentation</h3>
                         <p></p>
                         <h3>Resources</h3>
