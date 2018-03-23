@@ -104,11 +104,6 @@
                                                     <span class="nextSlide" id="slide-aatoab">Game development stopped since then...</span>
                                                 </div>
                                             </div>
-                                            <div class="row">
-                                                <div class="col-lg-6">
-                                                    <img src="assets/img/supportingphotos/sidephoto-idsoftware.png" alt="">
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -141,6 +136,9 @@
                                                     <p>By 2000, the success of these start-ups motivated other independent developers
                                                         in the Philippines.</p>
                                                 </div>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <img src="assets/img/supportingphotos/sidephoto-idsoftware.png" alt="">
                                             </div>
                                         </div>
                                         <button type="button" class="nextSlideBtn reset button-outline" id="secondslidereset">BIRTH OF PHILIPPINE VIDEO GAME DEVELOPERS</button>
@@ -259,6 +257,7 @@
                                                     Ondoy (Hurricane Ketsana) last year. We believe that volunteerism is an effective
                                                     way of tackling big problems, and we wanted to encourage this throughout the
                                                     game."</p>
+                                                    <p>You can learn more about Wildfire, By Implication <a href="https://wildfire.byimplication.com/">here</a></p>
                                             </div>
                                 </div>
                                 <p>Since then, a lot of video games developed in the Philippines. Because of the internet and
