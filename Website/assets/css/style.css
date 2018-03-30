@@ -130,6 +130,7 @@ body {
     font-size: 1.2em;
     font-weight: 700;
     margin-top: 2%;
+    color: black;
 }
 
 .owl-carousel button.nextSlideBtn:focus,

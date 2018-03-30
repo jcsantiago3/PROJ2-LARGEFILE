@@ -22,8 +22,8 @@
         <!-- Header -->
         <div class="header">
             <div class="nav">
-                <a href="index.php" class="navlogo">
-                    <img src="assets/img/logo.png" style="display: block; width: 200px;" alt="">
+                <a href="index.php">
+                    <img src="assets/img/logo.png" style="width:100%; margin-top:12%" alt="">
                 </a>
                 <a href="index.php" class="nav-item">
                     <span>History</span>
@@ -156,7 +156,7 @@
                                 <div class="panel panel-default">
                                     <div class="row">
                                         <div class="panel-header">
-                                            <h2>The Birth of
+                                            <h2 id="howItAllStarted">The Birth of
                                             <br>Philippine Based Video Game Developers</h2></div>
                                         <div class="col-lg-6">SOME TEXT</div>
                                         <div class="col-lg-6">
@@ -185,7 +185,7 @@
                             <div class="innerSlide" id="slide-b-b" hidden>
                                 <div class="panel panel-default">
                                     <div class="panel-header">
-                                        <h2>The Birth of
+                                        <h2 id="howItAllStarted">The Birth of
                                         <br>Philippine Based Video Game Developers</h2>
                                     </div>
                                     <div class="panel-body">
@@ -215,7 +215,7 @@
                         <div class="slide">
                             <div class="innerSlide">
                                 <div class="panel panel-default">
-                                    <div class="panel-header"><h2>The Rise of Digital Distribution</h2></div>
+                                    <div class="panel-header"><h2 id="howItAllStarted">The Rise of Digital Distribution</h2></div>
                                     <div class="panel-body">
                                         <p>There are multiple ways to get the games of Philippine made video games.</p>
                                         <div class="row">
