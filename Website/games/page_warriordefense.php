@@ -20,7 +20,7 @@
             </div>
             <hr>
             <div>
-                <h2>Reviews</h2>
+                <h2 class="whitetext">Reviews</h2>
             </div>
         </div>
         <?php include "../footer.php" ?>

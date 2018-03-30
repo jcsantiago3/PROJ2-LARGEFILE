@@ -262,7 +262,7 @@ button {
     margin-top: 2%;
 }
 
-#titlescreen-text {
+.titlescreen-text {
     justify-content: center;
     align-items: center;
     text-align: center;

@@ -56,7 +56,7 @@
                                     </div>
                                     <div class="row">
                                         <a href="games/page_theletter.php"><?php include "panels/panel_theletter.php"; ?></a>
-                                        <a href="games/page_towerfortress.php"><?php include "panels/panel_towerdefense.php"; ?></a>
+                                        <a href="games/page_towerfortress.php"><?php include "panels/panel_fortress.php"; ?></a>
                                         <a href="games/page_warriordefense.php"><?php include "panels/panel_warriordefense.php";?></a>
                                     </div>
                                 </div>
