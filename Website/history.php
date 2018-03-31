@@ -23,7 +23,9 @@
         <div class="header">
             <div class="nav">
                 <a href="index.php">
-                    <img src="assets/img/logo.png" style="width:100%; margin-top:12%" alt="">
+                    <div style="background-color:red; width: ;">
+                        <img src="assets/img/logo.png" style="height:90%; width: auto; margin-top: 1%;" alt="">
+                    </div>
                 </a>
                 <a href="index.php" class="nav-item">
                     <span>History</span>

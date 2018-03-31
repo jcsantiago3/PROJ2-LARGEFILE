@@ -240,10 +240,10 @@ body {
 
 .carousel-dots .owl-dot {
     margin: 0 10px;
+    display: inline-block;
 }
 
 .carouselbuttons {
-    width: 33vw;
     align-content: center;
     margin: 0 auto;
     display: block;
