@@ -160,7 +160,9 @@
                                         <div class="panel-header">
                                             <h2 id="howItAllStarted">The Birth of
                                             <br>Philippine Based Video Game Developers</h2></div>
-                                        <div class="col-lg-6">SOME TEXT</div>
+                                        <div class="col-lg-6">
+                                            <img src="assets/img/supportingphotos/sidephoto-aninogames.png" alt="">
+                                        </div>
                                         <div class="col-lg-6">
                                             <div class="para">
                                                 <p>Among the game developers that was built from 2000 were Fluxion Games, eSoftInteractive,
@@ -212,13 +214,11 @@
                 </div>
                 <div class="item">
                     <div class="container">
-                        
-                        
                         <div class="slide">
                             <div class="innerSlide">
                                 <div class="panel panel-default">
                                     <div class="panel-header"><h2 id="howItAllStarted">The Rise of Digital Distribution</h2></div>
-                                    <div class="panel-body">
+                                    <div class="panel-body para">
                                         <p>There are multiple ways to get the games of Philippine made video games.</p>
                                         <div class="row">
                                             <div class="col-lg-4">
@@ -247,7 +247,7 @@
                                             </div>
                                             <div class="col-lg-4">
                                                 <div class="distri-icons">
-                                                    <img src="assets/img/distri-icons/digital-distribution-icons-02.png">
+                                                    <img src="assets/img/distri-icons/digital-distribution-icons-03.png">
                                                 </div>
                                                 <h3>Online</h3>
                                                 <p>Another way of distributing video games is through personal websites. In 2010, a
@@ -270,8 +270,16 @@
                                 
                             </div>
                         </div>
-                        <a href="games.php" class="nextSlideBtn btn btn=default">Show me the games!</a>
-                        <a href="developers.php" class="nextSlideBtn btn btn=default">I'd like to meet the developers!</a>
+                        <a href="games.php">
+                            <button class="nextSlideBtn btn btn=default">
+                                Show me the games!
+                            </button>
+                        </a>
+                        <a href="developers.php" class="nextSlideBtn btn btn=default">
+                            <button class="nextSlideBtn btn btn=default">
+                                Show me the devs!
+                            </button>
+                        </a>
                     </div>
                 </div>
             </div>
