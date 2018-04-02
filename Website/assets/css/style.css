@@ -57,7 +57,7 @@ body {
 
 .Header .nav {
     display: flex;
-    flex: 0 1 40%;
+    width: 40%;
     margin-right: -15px;
 }
 
@@ -72,14 +72,14 @@ body {
     background-color: #555;
     text-transform: uppercase;
     font-style: normal;
-    text-align: center;
     flex: 1 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    align-self: center;
     text-decoration: none;
 }
 
+.Header .nav .nav-item.logo{
+    flex: 0 0 150px;
+}
 .Header .nav .menu-btn {
     display: none;
     background-color: #555;
@@ -423,6 +423,7 @@ nav {
 .distri-icons {
     width: 30%;
     display: block;
+    margin: 20px auto;
 }
 
 .distri-icons img {

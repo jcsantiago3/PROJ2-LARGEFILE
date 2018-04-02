@@ -15,7 +15,7 @@
                     <li><a href="../games/page_towerfortress.php">Tower Fortress</a></li>
                 </ol>
                 <div class="devbanner towerfortress"></div>
-                <?php include "../page-headers/page-header_towerfortress.php";
+                <?php include "../page-headers/page-header_towerdefense.php";
                 ?>
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>

@@ -1,12 +1,11 @@
 <nav class="pushy pushy-right">
     <div class="pushy-content">
         <ul>
-            <li class="pushy-link"><span style="text-decoration: none;"><a href="index.php">History</a></span>
-            </li>
-            <li class="pushy-link"><span>Games</span></li>
-            <li class="pushy-link"><span>Developers</span></li>
-            <li class="pushy-link"><span>Forum</span></li>
-            <li class="pushy-link"><span>About</span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../index.php">History</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../games.php">Games</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../developers.php">Developers</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../forum">Forum</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../about.php">About</a></span></li>
         </ul>
     </div>
 </nav>
@@ -17,7 +16,11 @@
         <div class="nav">
         <!--navphoto-->
             <div>
-                <a href="../index.php"><img src="../assets/img/logo.png" alt="" style="height:90%; width: auto; margin-top: 1%;"></a>
+                <a class="nav-item logo" href="../index.php">
+                    <div>
+                        <img src="../assets/img/logo.png" alt="" style="height:90%; width: auto; margin-top: 1%;">
+                    </div>
+                </a>
             </div>
             <a href="../index.php" class="nav-item" id="historytab">
                 <span>History</span>

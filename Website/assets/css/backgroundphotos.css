@@ -22,10 +22,10 @@
 }
 
 .brushstrokes{
-    background-image: url('../img/bannerimg/');
+    background-image: url('../img/bannerimg/brushstrokes.png');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-y: -45px;
+    background-position-y: -125px;
 }
 
 .dragonsnack{

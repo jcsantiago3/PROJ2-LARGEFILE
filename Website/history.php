@@ -2,18 +2,11 @@
     <nav class="pushy pushy-right">
         <div class="pushy-content">
             <ul>
-                <li class="pushy-link">
-                    <span>History</span>
-                </li>
-                <li class="pushy-link">
-                    <span>Games</span>
-                </li>
-                <li class="pushy-link">
-                    <span>Developers</span>
-                </li>
-                <li class="pushy-link">
-                    <span>About</span>
-                </li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../index.php">History</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../games.php">Games</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../developers.php">Developers</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../forum">Forum</a></span></li>
+            <li class="pushy-link"><span style="text-decoration: none;"><a href="../about.php">About</a></span></li>
             </ul>
         </div>
     </nav>
@@ -22,7 +15,7 @@
         <!-- Header -->
         <div class="header">
             <div class="nav">
-                <a href="index.php">
+                <a class="nav-item logo" href="index.php">
                     <div style="background-color:red; width: ;">
                         <img src="assets/img/logo.png" style="height:90%; width: auto; margin-top: 1%;" alt="">
                     </div>
@@ -88,7 +81,7 @@
                                     </div>
                                     <div class="panel-body">
                                         <div class="row">
-                                            <div class="col-lg-6">
+                                            <div class="col-lg-12">
                                                 <div class="para">
                                                     <p>Game development in the Philippines started way back in the 1992 with
                                                         Japan's booming arcades and console development. Many Philippine
