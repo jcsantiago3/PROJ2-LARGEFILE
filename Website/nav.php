@@ -15,13 +15,11 @@
     <div class="Header">
         <div class="nav">
         <!--navphoto-->
-            <div>
-                <a class="nav-item logo" href="../index.php">
-                    <div>
-                        <img src="../assets/img/logo.png" alt="" style="height:90%; width: auto; margin-top: 1%;">
-                    </div>
-                </a>
-            </div>
+            <a class="nav-item logo" href="index.php">
+                <div>
+                    <img src="assets/img/logo.png" style="height:90%; width: auto; margin-top: 1%;" alt="">
+                </div>
+            </a>
             <a href="../index.php" class="nav-item" id="historytab">
                 <span>History</span>
             </a>

@@ -28,6 +28,76 @@ body {
     position: fixed;
 }
 
+/*HeaderXD*/
+.HeaderXD {
+    position: absolute;
+    background-color: #555;
+    height: 70px;
+    padding: 0px 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    z-index: 2;
+    width: 100%;
+    
+}
+
+.HeaderXD .logo {
+    flex: 1 auto;
+}
+
+.HeaderXD .logo img {
+    position: absolute;
+    top: 5px;
+    max-width: 120px;
+    margin-left: 15px;
+}
+
+/*Navigation*/
+
+.HeaderXD .nav {
+    display: flex;
+    width: 40%;
+    margin-right: -15px;
+}
+
+
+.HeaderXD .nav .nav-item {
+    padding: 15px;
+    color: #FFF;
+    background-color: #555;
+    text-transform: uppercase;
+    font-style: normal;
+    flex: 1 auto;
+    align-self: center;
+    text-decoration: none;
+}
+
+.HeaderXD .nav .nav-item.logo{
+    flex: 0 0 150px;
+}
+.HeaderXD .nav .menu-btn {
+    display: none;
+    background-color: #555;
+    border: none;
+    padding: 15px;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.HeaderXD .nav .menu-btn:hover,
+.header .nav .menu-btn:active {
+    background-color: #FFF;
+    color: #555;
+}
+
+.HeaderXD .nav .menu-btn:focus {
+    outline: none;
+}
+
+/*Header*/
 .Header {
     position: absolute;
     background-color: #555;
@@ -48,7 +118,7 @@ body {
 
 .Header .logo img {
     position: absolute;
-    top: 20px;
+    top: 5px;
     max-width: 120px;
     margin-left: 15px;
 }
