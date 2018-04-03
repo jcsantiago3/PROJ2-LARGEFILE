@@ -30,7 +30,6 @@ body {
 
 /*HeaderXD*/
 .HeaderXD {
-    position: absolute;
     background-color: #555;
     height: 70px;
     padding: 0px 15px;
@@ -48,9 +47,6 @@ body {
 }
 
 .HeaderXD .logo img {
-    position: absolute;
-    top: 5px;
-    max-width: 120px;
     margin-left: 15px;
 }
 
@@ -545,14 +541,14 @@ nav {
 
 
 @media (max-width: 600px) {
-    .header .nav {
+    .Header .nav {
        justify-content: flex-end;
     }
-    .header .nav .nav-item {
+    .Header .nav .nav-item {
        display: none;
         margin: 0 -15px;
     }
-    .header .nav .menu-btn {
+    .Header .nav .menu-btn {
        display: block;
     }
 
