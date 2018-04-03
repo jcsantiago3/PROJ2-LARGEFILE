@@ -178,7 +178,6 @@ body {
     height: 100%;
 }
 
-.owl-carousel .owl-item img {}
 
 .content .item {
     padding: 50px 15px 15px 15px;
@@ -193,7 +192,6 @@ body {
     border: none;
     background-color: #FFF;
     padding: 10px 15px;
-    font-size: 1.2em;
     font-weight: 700;
     margin-top: 2%;
     color: black;
@@ -376,7 +374,6 @@ button {
     border: 1px black solid;
     background-color: #FFF;
     padding: 10px 15px;
-    font-size: 1.2em;
     font-weight: 700;
     display: inline-block;
     margin-top: 2%;

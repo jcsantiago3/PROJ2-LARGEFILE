@@ -25,9 +25,9 @@
                 </div>
                 <div class="panel-footer">
                     <p>Contact me:
-                    <a href="#">Facebook</a>
-                    <a href="#">Twitter</a>
-                    <a href="#">Instagram</a>
+                    <a href="https://www.facebook.com/jehseh">Facebook,</a>
+                    <a href="https://twitter.com/sanni________">Twitter,</a>
+                    <a href="https://www.instagram.com/itsmejccc/">Instagram</a>
                     </p>
                     
                 </div>
