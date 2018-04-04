@@ -38,21 +38,28 @@
                 </div>
                 <div class="panel-body">
                     <div class="hiddencontent collapse" id="sources">
-                        <h3>Images</h3>
-                        <p>The images used in the games pages and the developers pages are modified versions of the images (including logos) are all owned by:</p>
-                        <ul>
-                            <li>a</li>
-                            <li>b</li>
-                            <li>v</li>
-                            <li>c</li>
-                            <li>d</li>
-                            <li>cas</li>
-                            <li>dasd</li>
-                        </ul>
-                        <h3>Documentation</h3>
-                        <p></p>
                         <h3>Resources</h3>
-                        <p></p>
+                        <p>The proponent is not taking ownership of the images, art, and documentation used in the games pages and the developers pages, and have used these resources for educational purposes only. These are all owned by:</p>
+                        <ul>
+                            <li><a href="https://coffeebraingames.wordpress.com/">Coffee Brain Games</a></li>
+                            <li><a href="http://www.altitude-games.com/">Altitude Games</a></li>
+                            <li><a href="http://chroniclegames.com/">Chronicle Games</a></li>
+                            <li><a href="http://senshi.ph">Senshi Labs</a></li>
+                            <li><a href="http://www.keybolgames.com/">Keybol Games</a></li>
+                            <li><a href="https://www.laminastudios.com/">Lamina Studios</a></li>
+                            <li><a href="www.squeakywheel.ph/">Squeaky Wheel Games</a></li>
+                            <li><a href="http://www.yangyangmobile.com">Yang Yang Mobile</a></li>
+                        <h3>Researches</h3>
+                        <p>Researches and resources are paraphrased words from:</p>
+                        <ul>
+                            <li>
+                                Maria Portia Olenka C. Placino
+                                <ul>
+                                    <li><a href="https://portiaplacino.com/2011/02/01/philippine-digital-game-an-emerging-art-form/">https://portiaplacino.com/2011/02/01/philippine-digital-game-an-emerging-art-form/</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        
                     </div>    
                 </div>
                 <div class="panel-footer">
