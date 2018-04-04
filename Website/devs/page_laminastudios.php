@@ -12,14 +12,16 @@
                     <li><a href="../devs/page_laminastudios.php">Lamina Studios</a></li>
                 </ol>
                 <div class="devbanner laminastudios"></div>
-                <h1 class="center">Lamina Studios</h1>
+                <h1 class="center whitetext">Lamina Studios</h1>
                 <hr>
                 <div class="recentrelease">
-                    <h1>Recent Release</h1>
+                    <h1 class="whitetext">Recent Release</h1>
                     <?php include "../dev-headers/dev-header_dungeonsouls.php"; ?>
                 </div>
                 <hr>
-                <?php include "../dev-contact/dev-contact_laminastudios.php"; ?>
+                <div class="whitetext">
+                    <?php include "../dev-contact/dev-contact_laminastudios.php"; ?>
+                </div>
             </div>
         </div>
         <?php include "../footer.php"; ?>

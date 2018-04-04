@@ -12,20 +12,22 @@
                     <li><a href="../devs/page_senshilabs.php">Coffee Brain Games</a></li>
                 </ol>
                 <div class="devbanner senshilabs"></div>
-                <h1 class="center">Senshi Labs</h1>
+                <h1 class="center whitetext">Senshi Labs</h1>
                 <hr>
                 <div class="recentrelease">
-                    <h1>Recent Release</h1>
+                    <h1 class="whitetext">Recent Release</h1>
                     <?php include "../dev-headers/dev-header_book1pisces.php"; ?>
                 </div>
                 <hr>
                 <div>
-                    <h3>Other Games</h3>
+                    <h3 class="whitetext">Other Games</h3>
                     <?php include "../panels/panel_adarnaalamannimariablanca.php" ?>
                     <?php include "../panels/panel_brushstrokes.php" ?>
                     <?php include "../panels/panel_mathoriathelastsolution.php" ?>
                 </div>
-                <?php include "../dev-contact/dev-contact_senshilabs.php"; ?>
+                <div class="whitetext">
+                    <?php include "../dev-contact/dev-contact_senshilabs.php"; ?>
+                </div>
             </div>
         </div>
         <?php include "../footer.php"; ?>

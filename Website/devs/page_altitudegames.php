@@ -12,18 +12,18 @@
                     <li><a href="../devs/page_altitudegames.php">Altitude Games</a></li>
                 </ol>
                 <div class="devbanner altitudegames"></div>
-                <h1 class="center">Altitude Games</h1>
+                <h1 class="center whitetext">Altitude Games</h1>
                 <hr>
                 <div class="recentrelease">
-                    <h1>Recent Release</h1>
+                    <h1 class="whitetext">Recent Release</h1>
                     <?php include "../dev-headers/dev-header_zodiacpop.php"; ?>
                 </div>
                 <hr>
                 <div>
-                    <h3>Other Games</h3>
+                    <h3 class="whitetext">Other Games</h3>
                     <?php include "../panels/panel_runrunsuperv.php" ?>
                 </div>
-                <?php include "../dev-contact/dev-contact_altitudegames.php"; ?>
+                <div class="whitetext"><?php include "../dev-contact/dev-contact_altitudegames.php"; ?></div>
             </div>
         </div>
         <?php include "../footer.php"; ?>

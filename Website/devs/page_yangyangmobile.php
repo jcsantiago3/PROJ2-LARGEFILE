@@ -12,14 +12,16 @@
                     <li><a href="../devs/page_yangyangmobile.php">Coffee Brain Games</a></li>
                 </ol>
                 <div class="devbanner yangyangmobile">DEVBANNER HERE</div>
-                <h1 class="center">Yang Yang Mobile</h1>
+                <h1 class="center whitetext">Yang Yang Mobile</h1>
                 <hr>
                 <div class="recentrelease">
-                    <h1>Recent Release</h1>
+                    <h1 class="whitetext">Recent Release</h1>
                     <?php include "../dev-headers/dev-header_theletter.php"; ?>
                 </div>
                 <hr>
-                <?php include "../dev-contact/dev-contact_yangyangmobile.php"; ?>
+                <div class="whitetext">
+                    <?php include "../dev-contact/dev-contact_yangyangmobile.php"; ?>
+                </div>
             </div>
         </div>
         <?php include "../footer.php"; ?>

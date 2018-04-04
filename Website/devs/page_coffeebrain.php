@@ -12,14 +12,14 @@
                     <li><a href="../devs/page_coffeebrain.php">Coffee Brain Games</a></li>
                 </ol>
                 <div class="devbanner coffeebrain"></div>
-                <h1 class="center">Coffee Brain Games</h1>
+                <h1 class="center whitetext">Coffee Brain Games</h1>
                 <hr>
                 <div class="recentrelease">
-                    <h1>Recent Release</h1>
+                    <h1 class="whitetext">Recent Release</h1>
                     <?php include "../dev-headers/dev-header_warriordefense.php"; ?>
                 </div>
                 <hr>
-                <?php include "../dev-contact/dev-contact_coffeebrain.php"; ?>
+                <div class="whitetext"><?php include "../dev-contact/dev-contact_coffeebrain.php"; ?></div>
             </div>
         </div>
         <?php include "../footer.php"; ?>
