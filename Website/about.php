@@ -1,6 +1,7 @@
 <html>
     <head>
         <?php include "head.php"; ?>
+        <title>The Dev's Story - About</title>
     </head>
 
     <body class="bgcolor">
@@ -21,7 +22,18 @@
                     <h2>About JC</h2>
                 </div>
                 <div class="panel-body">
-                    <p>Hi, I'm JC. I'm a Multimedia Arts student in De La Salle - College of Saint Benilde. I am a gamer myself. </p>
+                <p>Remember when you were a kid and got scolded by your parents for playing a lot of video games? Remember when they said that video games would bring no future? When I was young, I experienced that.</p>
+
+<p>Hi, I'm JC. I'm a Multimedia Arts student in De La Salle - College of Saint Benilde. I am a gamer myself</P>
+
+<p>I honestly chose this topic because I was part of the group who had parents looking down upon video games itself. They thought that these video games were dumbing down society and should be stopped. I chose this topic at that time where everything is on the converging point, where people are starting to realise that video games are not that bad itself. It was slowly becoming part of the culture, as I saw it. To me, we are entering a digital age; I see mobile phones having video games being played by the youth and by the adults at the same time. Internet shops popping up, bringing gaming to new generations. Telecommunications companies are now including video games in their advertising. Now that video games are being accepted in our society, I wanted to show the Philippines that we have our game development scene of our own.</p>
+
+<p>As I see it, currently the popular video games in the Philippines are made outside the country. I thought to myself that, just like our exportable products, we should patrionize our own video games. This website is, hopefully, a solution to that problem. I hope that this website would be the catalyst for video game developers to aspire in advertising for Filipino gamers, as the Filipino gamers themselves play and compete with the set of games presented here and more.</p>
+
+<p>I hope you had fun with this short yet informative website. Thanks for visiting.</p>
+
+<p><i>- JC</i></p>
+
                 </div>
                 <div class="panel-footer">
                     <p>Contact me:
