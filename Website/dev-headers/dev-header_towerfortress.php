@@ -81,7 +81,7 @@
     <div class="panel-body">
         <h4>Price: P159.95</h4>
         <h5>Developed by:
-        <a href="../devs/page_keybolgames.php">Keybol</a>
+        <a href="../devs/keybolgames.php">Keybol</a>
         </h5>
         <h5>Released: Nov 20, 2017</h5>
         <h5>Platform: PC</h5>

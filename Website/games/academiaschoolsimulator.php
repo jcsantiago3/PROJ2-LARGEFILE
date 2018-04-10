@@ -10,13 +10,13 @@
             <div class="item">
                 <ol class="breadcrumb">
                     <li><a href="../developers.php">Developers</a></li>
-                    <li><a href="../devs/page_yangyangmobile.php">Yang Yang Mobile</a></li>
+                    <li><a href="../devs/squeakywheelgames.php">Squeaky Wheel Games</a></li>
                     <li><a href="../games.php">Games</a></li>
-                    <li><a href="../games/page_theletter.php">The Letter</a></li>
+                    <li><a href="../games/academiaschoolsimulator.php">Academia School Simulator</a></li>
                 </ol>
-                <div class="devbanner theletter"></div>
-                <?php include "../page-headers/page-header_theletter.php";
-                ?>
+                <div class="devbanner academia"></div>
+                <?php include "../page-headers/page-header_academiaschoolsimulator.php"; ?>
+                <hr>
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>
                     <div class="panel-body">
@@ -27,8 +27,8 @@
                         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
                         /*
                         var disqus_config = function () {
-                        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-                        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                        this.page.url = URL;  // Replace URL with your page's canonical URL variable
+                        this.page.identifier = IDENTIFIER; // Replace IDENTIFIER with your page's unique identifier variable
                         };
                         */
                         (function() { // DON'T EDIT BELOW THIS LINE
@@ -42,6 +42,7 @@
                     </div>
                 </div>
             </div>
+            
         </div>
         <?php include "../footer.php" ?>
     </body>

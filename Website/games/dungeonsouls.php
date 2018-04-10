@@ -3,19 +3,19 @@
         <?php include "../head.php"; ?>
     </head>
 
-    <body class="bgcolor"
+    <body class="bgcolor">
         <?php include "../nav.php";
         ?>
         <div class="container contentpage contentwidth">
             <div class="item">
                 <ol class="breadcrumb">
                     <li><a href="../developers.php">Developers</a></li>
-                    <li><a href="../devs/page_chroniclegames.php">Chronicle Games</a></li>
+                    <li><a href="../devs/laminastudios.php">Lamina Studios</a></li>
                     <li><a href="../games.php">Games</a></li>
-                    <li><a href="../games/page_reverie.php">Reverie</a></li>
+                    <li><a href="../games/dungeonsouls.php">Warrior Defense</a></li>
                 </ol>
-                <div class="devbanner reverie"></div>
-                <?php include "../page-headers/page-header_reverie.php";
+                <div class="devbanner dungeonsouls"></div>
+                <?php include "../page-headers/page-header_dungeonsouls.php";
                 ?>
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>
@@ -27,8 +27,8 @@
                         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
                         /*
                         var disqus_config = function () {
-                        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-                        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                        this.page.url = URL;  // Replace URL with your page's canonical URL variable
+                        this.page.identifier = IDENTIFIER; // Replace IDENTIFIER with your page's unique identifier variable
                         };
                         */
                         (function() { // DON'T EDIT BELOW THIS LINE

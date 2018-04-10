@@ -9,18 +9,18 @@
             <div class="item">
                 <ol class="breadcrumb">
                     <li><a href="../developers.php">Developers</a></li>
-                    <li><a href="../devs/page_squeakywheelgames.php">Coffee Brain Games</a></li>
+                    <li><a href="../devs/laminastudios.php">Lamina Studios</a></li>
                 </ol>
-                <div class="devbanner squeakywheel"></div>
-                <h1 class="center whitetext">Squeaky Wheel Games</h1>
+                <div class="devbanner laminastudios"></div>
+                <h1 class="center whitetext">Lamina Studios</h1>
                 <hr>
                 <div class="recentrelease">
                     <h1 class="whitetext">Recent Release</h1>
-                    <?php include "../dev-headers/dev-header_academiaschoolsimulator.php"; ?>
+                    <?php include "../dev-headers/dev-header_dungeonsouls.php"; ?>
                 </div>
                 <hr>
                 <div class="whitetext">
-                    <?php include "../dev-contact/dev-contact_squeakywheelgames.php"; ?>
+                    <?php include "../dev-contact/dev-contact_laminastudios.php"; ?>
                 </div>
             </div>
         </div>

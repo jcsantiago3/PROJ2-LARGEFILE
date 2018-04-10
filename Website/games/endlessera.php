@@ -10,12 +10,12 @@
             <div class="item">
                 <ol class="breadcrumb">
                     <li><a href="../developers.php">Developers</a></li>
-                    <li><a href="../devs/page_coffeebrain.php">Coffee Brain Games</a></li>
+                    <li><a href="../devs/chroniclegames.php">Chronicle Games</a></li>
                     <li><a href="../games.php">Games</a></li>
-                    <li><a href="../games/page_warriordefense.php">Warrior Defense</a></li>
+                    <li><a href="../games/endlessera.php">Endless Era</a></li>
                 </ol>
-                <div class="devbanner warriordefense"></div>
-                <?php include "../page-headers/page-header_warriordefense.php";
+                <div class="devbanner endlessera"></div>
+                <?php include "../page-headers/page-header_endlessera.php";
                 ?>
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>
@@ -27,8 +27,8 @@
                         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
                         /*
                         var disqus_config = function () {
-                        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-                        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                        this.page.url = URL;  // Replace URL with your page's canonical URL variable
+                        this.page.identifier = IDENTIFIER; // Replace IDENTIFIER with your page's unique identifier variable
                         };
                         */
                         (function() { // DON'T EDIT BELOW THIS LINE

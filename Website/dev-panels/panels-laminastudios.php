@@ -6,7 +6,7 @@
         <div class="panel-body">
             <h3>Lamina Studios</h3></a></div>
         <div class="panel-footer">
-            <a href="../devs/page_laminastudios.php" class="dev_button">Check Out Their Games</a>
+            <a href="../devs/laminastudios.php" class="dev_button">Check Out Their Games</a>
             <br>
             <a href="https://www.laminastudios.com/" class="dev_button">Check Out Their Website Here</a>
         </div>

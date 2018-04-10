@@ -81,7 +81,7 @@
     <div class="panel-body">
         <h4>Price: P259.76 or more</h4>
         <h5>Developed by:
-        <a href="../devs/page_senshilabs.php">Senshi Labs</a>
+        <a href="../devs/senshilabs.php">Senshi Labs</a>
         </h5>
         <h5>Released: Jul 04, 2016</h5>
         <h5>Platform: PC</h5>

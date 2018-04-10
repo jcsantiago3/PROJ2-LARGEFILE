@@ -6,7 +6,7 @@
         <div class="panel-body">
             <h3>Warrior Defense</h3>
             <h4>Price: Free</h4>
-            <h4>Developer: <a href="../devs/page_coffeebrain.php">Coffee Brain</a></h4>
+            <h4>Developer: <a href="../devs/coffeebrain.php">Coffee Brain</a></h4>
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>

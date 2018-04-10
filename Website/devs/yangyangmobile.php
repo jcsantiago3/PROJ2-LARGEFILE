@@ -9,18 +9,18 @@
             <div class="item">
                 <ol class="breadcrumb">
                     <li><a href="../developers.php">Developers</a></li>
-                    <li><a href="../devs/page_laminastudios.php">Lamina Studios</a></li>
+                    <li><a href="../devs/yangyangmobile.php">Coffee Brain Games</a></li>
                 </ol>
-                <div class="devbanner laminastudios"></div>
-                <h1 class="center whitetext">Lamina Studios</h1>
+                <div class="devbanner yangyangmobile">DEVBANNER HERE</div>
+                <h1 class="center whitetext">Yang Yang Mobile</h1>
                 <hr>
                 <div class="recentrelease">
                     <h1 class="whitetext">Recent Release</h1>
-                    <?php include "../dev-headers/dev-header_dungeonsouls.php"; ?>
+                    <?php include "../dev-headers/dev-header_theletter.php"; ?>
                 </div>
                 <hr>
                 <div class="whitetext">
-                    <?php include "../dev-contact/dev-contact_laminastudios.php"; ?>
+                    <?php include "../dev-contact/dev-contact_yangyangmobile.php"; ?>
                 </div>
             </div>
         </div>

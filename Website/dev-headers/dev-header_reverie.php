@@ -81,7 +81,7 @@
     <div class="panel-body">
         <h4>Price: P40.00</h4>
         <h5>Developed by:
-        <a href="../devs/page_chroniclegames.php">Chronicle Games</a>
+        <a href="../devs/chroniclegames.php">Chronicle Games</a>
         </h5>
         <h5>Released: Oct 4, 2017</h5>
         <h5>Platform: PC</h5>

@@ -6,7 +6,7 @@
         <div class="panel-body">
             <h3>Kill the Plumber</h3>
             <h4>Price: Free</h4>
-            <h4>Developer: <a href="../devs/page_keybolgames.php">Keybol Games</a></h4>
+            <h4>Developer: <a href="../devs/keybolgames.php">Keybol Games</a></h4>
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>

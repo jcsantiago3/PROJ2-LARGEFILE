@@ -81,7 +81,7 @@
     <div class="panel-body">
         <h4>Price: P499.95</h4>
         <h5>Developed by:
-        <a href="../devs/page_yangyangmobile.php">Yang Yang Mobile</a>
+        <a href="../devs/yangyangmobile.php">Yang Yang Mobile</a>
         </h5>
         <h5>Released: July 25, 2017</h5>
         <h5>Platform: PC</h5>

@@ -82,7 +82,7 @@
     <div class="panel-body">
     <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/page_laminastudios.php">Lamina Studios</a>
+        <a href="../devs/laminastudios.php">Lamina Studios</a>
         </h5>
         <h5>Released: Jan 2, 2014</h5>
         <h5>Platform: PC</h5>

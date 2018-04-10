@@ -81,7 +81,7 @@
     <div class="panel-body">
         <h4>Price: Name Your Own Price</h4>
         <h5>Developed by:
-        <a href="../devs/page_senshilabs.php">Senshi Labs</a>
+        <a href="../devs/senshilabs.php">Senshi Labs</a>
         </h5>
         <h5>Released: Apr 21, 2017</h5>
         <h5>Platform: PC</h5>

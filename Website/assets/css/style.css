@@ -194,7 +194,7 @@ body {
     padding: 10px 15px;
     font-weight: 700;
     margin-top: 2%;
-    color: black;
+    color: #61C3FF;
 }
 
 .owl-carousel button.nextSlideBtn:focus,
@@ -473,7 +473,7 @@ nav {
 #howItAllStarted {
     font-family: 'Press Start 2P', cursive;
     text-transform: uppercase;
-    color: #309693;
+    color: #61c3ff;
 
 }
 

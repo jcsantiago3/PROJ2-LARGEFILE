@@ -6,7 +6,7 @@
         <div class="panel-body">
             <h3>Academia: School Simulator</h3>
             <h4>Price: Free</h4>
-            <h4>Developer: <a href="../devs/page_squeakywheelgames.php">Squeaky Wheel</a></h4>
+            <h4>Developer: <a href="../devs/squeakywheelgames.php">Squeaky Wheel</a></h4>
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>

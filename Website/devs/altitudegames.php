@@ -9,19 +9,21 @@
             <div class="item">
                 <ol class="breadcrumb">
                     <li><a href="../developers.php">Developers</a></li>
-                    <li><a href="../devs/page_yangyangmobile.php">Coffee Brain Games</a></li>
+                    <li><a href="../devs/altitudegames.php">Altitude Games</a></li>
                 </ol>
-                <div class="devbanner yangyangmobile">DEVBANNER HERE</div>
-                <h1 class="center whitetext">Yang Yang Mobile</h1>
+                <div class="devbanner altitudegames"></div>
+                <h1 class="center whitetext">Altitude Games</h1>
                 <hr>
                 <div class="recentrelease">
                     <h1 class="whitetext">Recent Release</h1>
-                    <?php include "../dev-headers/dev-header_theletter.php"; ?>
+                    <?php include "../dev-headers/dev-header_zodiacpop.php"; ?>
                 </div>
                 <hr>
-                <div class="whitetext">
-                    <?php include "../dev-contact/dev-contact_yangyangmobile.php"; ?>
+                <div>
+                    <h3 class="whitetext">Other Games</h3>
+                    <?php include "../panels/panel_runrunsuperv.php" ?>
                 </div>
+                <div class="whitetext"><?php include "../dev-contact/dev-contact_altitudegames.php"; ?></div>
             </div>
         </div>
         <?php include "../footer.php"; ?>

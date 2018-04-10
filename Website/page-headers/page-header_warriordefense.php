@@ -82,7 +82,7 @@
     <div class="panel-body">
         <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/page_coffeebrain.php">Coffee Brain Games</a>
+        <a href="../devs/coffeebrain.php">Coffee Brain Games</a>
         </h5>
         <h5>Released: Aug 5, 2014</h5>
         <h5>Platform: iOS, Android, PC</h5>

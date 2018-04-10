@@ -6,7 +6,7 @@
         <div class="panel-body">
             <h3>Keybol Games</h3></a></div>
         <div class="panel-footer">
-            <a href="../devs/page_keybolgames.php" class="dev_button">Check Out Their Games</a>
+            <a href="../devs/keybolgames.php" class="dev_button">Check Out Their Games</a>
             <br>
             <a href="http://www.keybolgames.com/" class="dev_button">Check Out Their Website Here</a>
         </div>

@@ -81,7 +81,7 @@
     <div class="panel-body">
         <h4>Price: FREE</h4>
         <h5>Developed by:
-        <a href="../devs/page_altitudegames.php">Altitude Games</a>
+        <a href="../devs/altitudegames.php">Altitude Games</a>
         </h5>
         <h5>Released: Aug 19, 2014</h5>
         <h5>Platform: iOS, Android</h5>

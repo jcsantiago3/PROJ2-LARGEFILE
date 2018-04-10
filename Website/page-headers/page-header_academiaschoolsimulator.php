@@ -81,7 +81,7 @@
     <div class="panel-body">
         <h4>Price: P499.99</h4>
         <h5>Developed by:
-        <a href="../devs/page_squeakywheelgames.php">Squeaky Wheel Games</a>
+        <a href="../devs/squeakywheelgames.php">Squeaky Wheel Games</a>
         </h5>
         <h5>Released: September 8, 2017</h5>
         <h5>Platform: PC</h5>

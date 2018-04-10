@@ -6,7 +6,7 @@
         <div class="panel-body">
             <h3>Squeaky Wheel Games</h3></a></div>
         <div class="panel-footer">
-            <a href="../devs/page_squeakywheelgames.php" class="dev_button">Check Out Their Games</a>
+            <a href="../devs/squeakywheelgames.php" class="dev_button">Check Out Their Games</a>
             <br>
             <a href="http://www.squeakywheel.ph/" class="dev_button">Check Out Their Website Here</a>
         </div>
