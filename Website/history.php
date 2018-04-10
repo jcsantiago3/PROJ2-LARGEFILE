@@ -1,12 +1,17 @@
 <body>
     <nav class="pushy pushy-right">
         <div class="pushy-content">
+            <a  href="index.php">
+                <div class="pushy-logo">
+                    <img src="../assets/img/logo.png" style="width: 100%; margin-top: 1%;" alt="">
+                </div>
+            </a>
             <ul>
-            <li class="pushy-link"><span style="text-decoration: none;"><a href="../index.php">History</a></span></li>
-            <li class="pushy-link"><span style="text-decoration: none;"><a href="../games.php">Games</a></span></li>
-            <li class="pushy-link"><span style="text-decoration: none;"><a href="../developers.php">Developers</a></span></li>
-            <li class="pushy-link"><span style="text-decoration: none;"><a href="../forum">Forum</a></span></li>
-            <li class="pushy-link"><span style="text-decoration: none;"><a href="../about.php">About</a></span></li>
+                <li class="pushy-link"><span style="text-decoration: none;"><a href="../index.php">History</a></span></li>
+                <li class="pushy-link"><span style="text-decoration: none;"><a href="../games.php">Games</a></span></li>
+                <li class="pushy-link"><span style="text-decoration: none;"><a href="../developers.php">Developers</a></span></li>
+                <li class="pushy-link"><span style="text-decoration: none;"><a href="../forum">Forum</a></span></li>
+                <li class="pushy-link"><span style="text-decoration: none;"><a href="../about.php">About</a></span></li>
             </ul>
         </div>
     </nav>
@@ -146,34 +151,36 @@
                 <div class="item">
                     <div class="container">
                         <div class="slide">
-                            
                             <div class="innerSlide" id="slide-b-a">
                                 <div class="panel panel-default">
                                     <div class="row">
                                         <div class="panel-header">
                                             <h2 id="howItAllStarted">The Birth of
-                                            <br>Philippine Based Video Game Developers</h2></div>
-                                        <div class="col-lg-6">
-                                            <img src="assets/img/supportingphotos/sidephoto-aninogames.png" alt="">
+                                            <br>Philippine Based Video Game Developers</h2>
                                         </div>
-                                        <div class="col-lg-6">
-                                            <div class="para">
-                                                <p>Among the game developers that was built from 2000 were Fluxion Games, eSoftInteractive,
-                                                and Anino Entertainment. Game development slowly started entering the mainstream
-                                                media by the development of Anito: Defend a Land Enraged in 2001 by Anino Entertainment.</p>
-                                                <p>It was one of the few video games released in the 2000's to include the Philippines'
-                                                    culture and history as a means for creating a video game. Because of Anito's
-                                                    good story and art design, Anino Entertainment soon had fans in the Easter Europe
-                                                    market. However, constraints in marketing and promotion budgets resulted in limited
-                                                    exposure to the biggest market for video games at that time, the United States.</p>
-                                                <p>Because of that, entry of promising independent video game developers received very
-                                                    little attention from mainstream media and the government. This goes through
-                                                    Tantra Online developed by ABS-CBN Entertainment. With it being a Massive Multiplayer
-                                                    Online Role-Playing Game (MMORPG), it needed a huge player base for it to survive.
-                                                    A lack of a good backstory was the main reason why gamers lacked interest in
-                                                    Tantra Online, resulting to a small player base and, in turn, slowly dwindled
-                                                    down.</p>
-                                                <span class="nextSlide" id="slide-batobb">Then...</span>
+                                        <div class="panel-body">
+                                            <div class="col-lg-6">
+                                                <img src="assets/img/supportingphotos/sidephoto-aninogames.png" alt="">
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <div class="para">
+                                                    <p>Among the game developers that was built from 2000 were Fluxion Games, eSoftInteractive,
+                                                    and Anino Entertainment. Game development slowly started entering the mainstream
+                                                    media by the development of Anito: Defend a Land Enraged in 2001 by Anino Entertainment.</p>
+                                                    <p>It was one of the few video games released in the 2000's to include the Philippines'
+                                                        culture and history as a means for creating a video game. Because of Anito's
+                                                        good story and art design, Anino Entertainment soon had fans in the Easter Europe
+                                                        market. However, constraints in marketing and promotion budgets resulted in limited
+                                                        exposure to the biggest market for video games at that time, the United States.</p>
+                                                    <p>Because of that, entry of promising independent video game developers received very
+                                                        little attention from mainstream media and the government. This goes through
+                                                        Tantra Online developed by ABS-CBN Entertainment. With it being a Massive Multiplayer
+                                                        Online Role-Playing Game (MMORPG), it needed a huge player base for it to survive.
+                                                        A lack of a good backstory was the main reason why gamers lacked interest in
+                                                        Tantra Online, resulting to a small player base and, in turn, slowly dwindled
+                                                        down.</p>
+                                                    <span class="nextSlide" id="slide-batobb">Then...</span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -258,21 +265,20 @@
                                 <p>Since then, a lot of video games developed in the Philippines. Because of the internet and
                                     the many platforms to release your games, a lot of developers are experimenting and trying
                                     to find out where they would specifically develop and market their games. </p>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <a href="games.php">
+                                    <a href="games.php">
                             <button class="nextSlideBtn btn btn=default">
                                 Show me the games!
                             </button>
                         </a>
-                        <a href="developers.php" class="nextSlideBtn btn btn=default">
+                        <a href="developers.php">
                             <button class="nextSlideBtn btn btn=default">
                                 Show me the devs!
                             </button>
                         </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

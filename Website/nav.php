@@ -1,6 +1,11 @@
 <nav class="pushy pushy-right">
 
     <div class="pushy-content">
+        <a  href="index.php">
+            <div class="pushy-logo">
+                <img src="../assets/img/logo.png" style="width: 100%; margin-top: 1%;" alt="">
+            </div>
+        </a>
         <ul>
             <li class="pushy-link"><span style="text-decoration: none;"><a href="../index.php">History</a></span></li>
             <li class="pushy-link"><span style="text-decoration: none;"><a href="../games.php">Games</a></span></li>

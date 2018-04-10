@@ -143,6 +143,10 @@ hr {
     right: 0;
 }
 
+.pushy-logo img{
+    width:20px;
+}
+
 
 @media (max-width: 768px) {
     .non-phone{
