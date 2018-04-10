@@ -25,6 +25,7 @@
                 <a href="devs/yangyangmobile.php"><?php include "dev-panels/panels-yangyangmobile.php"; ?></a>
             </div>
         </div>
+        </div>
         <?php include "footer.php" ?>
     </body>
     <?php include "scripts.php";?>
