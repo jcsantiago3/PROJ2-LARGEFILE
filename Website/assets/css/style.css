@@ -7,7 +7,6 @@
 html,
 body {
     width: 100%;
-    height: 100%;
     margin: 0;
     padding: 0;
 }
@@ -534,6 +533,10 @@ nav {
     border: black 1px solid;
 }
 
+.laptop-medium{
+    display: none;
+}
+
 
 
 
@@ -557,5 +560,11 @@ nav {
     .carousel-dots .owl-dot span {
         width: 15px;
         height: 15px;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    .laptop-medium{
+        display: block;
     }
 }

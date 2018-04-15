@@ -5,6 +5,7 @@
         </div>
         <div class="panel-body">
             <h3>Altitude Games</h3></a>
+            <br class="laptop-medium">
         </div>
         <div class="panel-footer">
             <a href="../devs/altitudegames.php" class="dev_button">Check Out Their Games</a>

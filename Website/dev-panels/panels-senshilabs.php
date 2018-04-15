@@ -4,7 +4,9 @@
             <img src="../assets/img/devthumbnails/thumbnail-senshilabs.jpg" alt="" style="width: 100%;">
         </div>
         <div class="panel-body">
-            <h3>Senshi Labs</h3></a></div>
+            <h3>Senshi Labs</h3></a>
+            <br class="laptop-medium">
+            </div>
         <div class="panel-footer">
             <a href="../devs/senshilabs.php" class="dev_button">Check Out Their Games</a>
             <br>

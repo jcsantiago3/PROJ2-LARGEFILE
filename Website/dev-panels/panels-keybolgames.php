@@ -5,6 +5,7 @@
         </div>
         <div class="panel-body">
             <h3>Keybol Games</h3></a></div>
+            <br class="laptop-medium">
         <div class="panel-footer">
             <a href="../devs/keybolgames.php" class="dev_button">Check Out Their Games</a>
             <br>
