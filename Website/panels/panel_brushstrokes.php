@@ -11,7 +11,7 @@
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>
-            <a href="https://senshilabs.itch.io/brushstrokes"><img src="../assets/img/badges/itchio-badge.png" alt="Get it on Google Play"></a>
+            <a href="https://senshilabs.itch.io/brushstrokes"><img class="gamespagemenu" src="../assets/img/badges/itchio-badge.png" alt="Get it on Google Play"></a>
         </div>
     </div>
 </div>

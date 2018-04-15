@@ -11,8 +11,8 @@
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>
-            <a href="https://play.google.com/store/apps/details?id=com.altitude.zodiacpop"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
-    <a href="https://itunes.apple.com/us/app/zodiac-pop!/id1078573571?ls=1&mt=8"><img src="../assets/img/badges/ios-badge.png" alt="Get it on Google Play"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.altitude.zodiacpop"><img class="gamespagemenu" src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
+    <a href="https://itunes.apple.com/us/app/zodiac-pop!/id1078573571?ls=1&mt=8"><img class="gamespagemenu" src="../assets/img/badges/ios-badge.png" alt="Get it on Google Play"></a>
         </div>
     </div>
 </div>

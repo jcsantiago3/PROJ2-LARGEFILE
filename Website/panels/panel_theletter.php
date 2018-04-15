@@ -11,7 +11,7 @@
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>
-            <a href="http://store.steampowered.com/app/460430/The_Letter__Horror_Visual_Novel/"><img src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a>
+            <a href="http://store.steampowered.com/app/460430/The_Letter__Horror_Visual_Novel/"><img class="gamespagemenu" src="../assets/img/badges/steam-badge.png" alt="Get it on Google Play"></a>
         </div>
     </div>
 </div>

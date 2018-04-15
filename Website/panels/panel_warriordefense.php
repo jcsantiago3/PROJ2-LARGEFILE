@@ -11,7 +11,7 @@
         </div>
         <div class="panel-footer">
             <h4>Get it on</h4>
-            <a href="https://play.google.com/store/apps/details?id=com.coffeebrain.tarsier&hl=en"><img src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.coffeebrain.tarsier&hl=en"><img class="gamespagemenu" src="../assets/img/badges/gp-badge.png" alt="Get it on Google Play"></a>
         </div>
     </div>
 </div>
