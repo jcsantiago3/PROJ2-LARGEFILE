@@ -1,4 +1,4 @@
-<a href="games/dragonsnack.php">
+<a href="../games/dragonsnack.php">
 <div class="col-lg-4">
     <div class="panel panel-default">
         <div class="panel-header">

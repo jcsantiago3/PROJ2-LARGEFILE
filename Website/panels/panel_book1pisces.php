@@ -1,4 +1,4 @@
-<a href="games/book1pisces.php">
+<a href="../games/book1pisces.php">
 <div class="col-lg-4">
     <div class="panel panel-default">
         <div class="panel-header">

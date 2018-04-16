@@ -1,4 +1,4 @@
-<a href="games/mathoriathelastsolution.php">
+<a href="../games/mathoriathelastsolution.php">
 <div class="col-lg-4">
     <div class="panel panel-default">
         <div class="panel-header">

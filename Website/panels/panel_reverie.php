@@ -1,4 +1,4 @@
-<a href="games/reverie.php"> 
+<a href="../games/reverie.php"> 
 <div class="col-lg-4">
     <div class="panel panel-default">
         <div class="panel-header">

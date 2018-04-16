@@ -1,4 +1,4 @@
-<a href="games/brushstrokes.php">
+<a href="../games/brushstrokes.php">
 <div class="col-lg-4">
     <div class="panel panel-default">
         <div class="panel-header">
