@@ -20,6 +20,36 @@
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>
                     <div class="panel-body">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <!--GOOGLE PLAY USER REVIEWS-->
+                                    <div class="user_reviews_summary_bar_play">
+                                        <div class="summary_section">
+                                            <div class="icon">
+                                                <img src="../assets/img/reviewicons/Play.png" alt="">PLAY
+                                            </div>
+                                            <div class="title">Overall Rating:</div>
+                                            <span class="game_review_summary positive_play" data-tooltip-text="92% of the 356 user reviews for this game are positive."><strong>&#9733;&#9733;&#9733;&#9733;&#9733;</strong></span>
+                                            <span>(53,797 reviews)</span>
+                                        </div>
+                                    </div>
+                                <!--END GOOGLE PLAY USER REVIEWS-->
+                            </div>
+                            <div class="col-lg-6">
+                                <!--IOS USER REVIEWS-->
+                                    <div class="user_reviews_summary_bar_ios">
+                                        <div class="summary_section">
+                                            <div class="icon">
+                                                <img src="../assets/img/reviewicons/IOS.png" alt="">IOS
+                                            </div>
+                                            <div class="title">Overall Rating:</div>
+                                            <span class="game_review_summary positive_ios" data-tooltip-text="92% of the 356 user reviews for this game are positive."><strong>&#9733;&#9733;&#9733;&#9733;&#9733;</strong></span>
+                                            <span>(58 reviews)</span>
+                                        </div>
+                                    </div>
+                                <!--END IOS USER REVIEWS-->
+                            </div>
+                        </div>
                         <div id="disqus_thread"></div>
                         <script>
                         /**

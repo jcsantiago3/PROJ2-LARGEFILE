@@ -20,6 +20,17 @@
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>
                     <div class="panel-body">
+                        <!--ITCH.IO USER REVIEWS-->
+                    <div class="user_reviews_summary_bar_ichio">
+                            <div class="summary_section">
+                                <div class="icon">
+                                    <img src="../assets/img/reviewicons/Ichio.png" alt="">ITCH.IO
+                                </div>
+                                <div class="title">Overall Rating:</div>
+                                <span class="game_review_summary positive_ichio" data-tooltip-text="92% of the 356 user reviews for this game are positive."><strong>No reviews yet.</strong></span>
+                            </div>
+                        </div>
+                    <!--END ITCH.IO USER REVIEWS-->
                         <div id="disqus_thread"></div>
                         <script>
                         /**

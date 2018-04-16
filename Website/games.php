@@ -61,11 +61,6 @@
                                         <a href="games/warriordefense.php"><?php include "panels/panel_warriordefense.php";?></a>
                                     </div>
                                 </div>
-                                <div class="item"> <!--Item 4-->
-                                    <div class="row">
-                                        <a href="games/zodiacpop.php"><?php include "panels/panel_zodiacpop.php";?></a>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

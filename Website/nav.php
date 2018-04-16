@@ -1,7 +1,7 @@
 <nav class="pushy pushy-right">
 
     <div class="pushy-content">
-        <a  href="index.php">
+        <a  href="../index.php">
             <div class="pushy-logo">
                 <img src="../assets/img/logo.png" style="width: 100%; margin-top: 1%;" alt="">
             </div>

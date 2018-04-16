@@ -20,6 +20,18 @@
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>
                     <div class="panel-body">
+                        <!--STEAM USER REVIEWS-->
+                    <div class="user_reviews_summary_bar">
+                            <div class="summary_section">
+                                <div class="icon">
+                                    <img src="../assets/img/reviewicons/Steam.png" alt="">STEAM
+                                </div>
+                                <div class="title">Overall Reviews:</div>
+                                <span class="game_review_summary positive" data-tooltip-text="92% of the 356 user reviews for this game are positive."><strong>Very Positive</strong></span>
+                                <span>(356 reviews)</span>
+                            </div>
+                        </div>
+                    <!--END STEAM USER REVIEWS-->
                         <div id="disqus_thread"></div>
                         <script>
                         /**

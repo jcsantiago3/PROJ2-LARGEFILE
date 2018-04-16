@@ -20,6 +20,18 @@
                 <div class="panel panel-default">
                     <div class="panel-header"><h2>Reviews</h2></div>
                     <div class="panel-body">
+                        <!--GOOGLE PLAY USER REVIEWS-->
+                    <div class="user_reviews_summary_bar_play">
+                            <div class="summary_section">
+                                <div class="icon">
+                                    <img src="../assets/img/reviewicons/Play.png" alt="">PLAY
+                                </div>
+                                <div class="title">Overall Rating:</div>
+                                <span class="game_review_summary positive_play" data-tooltip-text="92% of the 356 user reviews for this game are positive."><strong>&#9733;&#9733;&#9733;&#9733;&#9734;</strong></span>
+                                <span>(275 reviews)</span>
+                            </div>
+                        </div>
+                    <!--END GOOGLE PLAY USER REVIEWS-->
                         <div id="disqus_thread"></div>
                         <script>
                         /**

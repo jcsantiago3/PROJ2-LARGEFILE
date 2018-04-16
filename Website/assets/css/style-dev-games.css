@@ -147,6 +147,156 @@ hr {
 .pushy-logo img{
     width:20px;
 }
+/*--------steam-------*/
+.user_reviews_summary_bar{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background-color: #2B475D;
+    min-height: 38px;
+    box-shadow: 2px 5px;
+}
+
+.user_reviews_summary_bar .summary_section{
+    display: inline-block;
+    margin-right: 15px;
+    color: #8ba6b6;
+    min-width: 320px;
+}
+
+.user_reviews_summary_bar .icon{
+    width:50px;
+    float: left;
+    min-height: 50px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.user_reviews_summary_bar .title{
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 5px;
+    color: #e5e5e5;
+}
+
+.game_review_summary{
+    font-size:20px;
+}
+
+.positive{
+    color: #549DC1;
+    text-shadow: 1px 1px #333;
+}
+
+.mixed{
+    color: #a8926a;
+}
+
+/*--------ichio-------*/
+.user_reviews_summary_bar_ichio{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background-color: #fa5c5b;
+    min-height: 38px;
+    box-shadow: 2px 5px;
+}
+
+.user_reviews_summary_bar_ichio .summary_section{
+    display: inline-block;
+    margin-right: 15px;
+    color: #e5e5e5;
+    min-width: 320px;
+}
+
+.user_reviews_summary_bar_ichio .icon{
+    width:50px;
+    float: left;
+    min-height: 50px;
+    color: #e5e5e5;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.user_reviews_summary_bar_ichio .title{
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 5px;
+    color: #e5e5e5;
+}
+
+.positive_ichio{
+    color: #e5e5e5;
+}
+/*--------googleplay-------*/
+.user_reviews_summary_bar_play{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background-color: #b3efbd;
+    min-height: 38px;
+    box-shadow: 2px 5px;
+}
+
+.user_reviews_summary_bar_play .summary_section{
+    display: inline-block;
+    margin-right: 15px;
+    color: #333;
+    min-width: 320px;
+}
+
+.user_reviews_summary_bar_play .icon{
+    width:50px;
+    float: left;
+    min-height: 50px;
+    color: #333;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.user_reviews_summary_bar_play .title{
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.positive_play{
+    color: #333;
+}
+
+/*-----ios-----*/
+.user_reviews_summary_bar_ios{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background-color: #f3f3f3;
+    min-height: 38px;
+    box-shadow: 2px 5px;
+}
+
+.user_reviews_summary_bar_ios .summary_section{
+    display: inline-block;
+    margin-right: 15px;
+    color: #333;
+    min-width: 320px;
+}
+
+.user_reviews_summary_bar_ios .icon{
+    width:50px;
+    float: left;
+    min-height: 50px;
+    color: #333;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.user_reviews_summary_bar_ios .title{
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.positive_ios{
+    color: #ffd71f;
+}
 
 
 @media (max-width: 768px) {
