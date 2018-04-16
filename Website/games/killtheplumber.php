@@ -1,6 +1,7 @@
 <html>
     <head>
         <?php include "../head.php"; ?>
+        <title>The Dev's Story - Games - Kill The Plumber</title>
     </head>
 
     <body class="bgcolor">

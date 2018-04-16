@@ -1,6 +1,7 @@
 <html>
     <head>
         <?php include "../head.php"; ?>
+        <title>The Dev's Story - Games - Adarna: Alamat ni Maria Blanca</title>
     </head>
 
     <body class="bgcolor">

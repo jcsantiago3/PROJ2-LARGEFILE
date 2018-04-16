@@ -1,6 +1,7 @@
 <html>
     <head>
         <?php include "../head.php"; ?>
+        <title>The Dev's Story - Developers - Keybol Games</title>
     </head>
 
     <body class="bgcolor">

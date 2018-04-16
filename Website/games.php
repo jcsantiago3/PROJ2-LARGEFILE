@@ -26,39 +26,39 @@
                             <div class="panel-body">
                                 <div class="item active"><!--Item 1-->
                                     <div class="row">
-                                        <a href="games/academiaschoolsimulator.php"><?php include "panels/panel_academiaschoolsimulator.php"; ?></a>
-                                        <a href="games/adarnaalamatnimariablanca.php"><?php include "panels/panel_adarnaalamannimariablanca.php"; ?></a>
-                                        <a href="games/book1pisces.php"><?php include "panels/panel_book1pisces.php"; ?></a>
+                                        <?php include "panels/panel_academiaschoolsimulator.php"; ?>
+                                        <?php include "panels/panel_adarnaalamannimariablanca.php"; ?>
+                                        <?php include "panels/panel_book1pisces.php"; ?>
                                         
                                     </div>
                                     <div class="row">
-                                        <a href="games/brushstrokes.php"><?php include "panels/panel_brushstrokes.php";?></a>
-                                        <a href="games/dragonsnack.php"><?php include "panels/panel_dragonsnack.php";?></a>
-                                        <a href="games/dreamdefense.php"><?php include "panels/panel_dreamdefense.php";?></a>
+                                        <?php include "panels/panel_brushstrokes.php";?>
+                                        <?php include "panels/panel_dragonsnack.php";?>
+                                        <?php include "panels/panel_dreamdefense.php";?>
                                     </div>
                                 </div>
                                 <div class="item"> <!--Item 2-->
                                     <div class="row">
-                                        <a href="games/dungeonsouls.php"><?php include "panels/panel_dungeonsouls.php";?></a>
-                                        <a href="games/endlessera.php"><?php include "panels/panel_endlessera.php";?></a>
-                                        <a href="games/killtheplumber.php"><?php include "panels/panel_killtheplumber.php"; ?></a>
+                                        <?php include "panels/panel_dungeonsouls.php";?>
+                                        <?php include "panels/panel_endlessera.php";?>
+                                        <?php include "panels/panel_killtheplumber.php"; ?>
                                     </div>
                                     <div class="row">
-                                        <a href="games/mathoriathelastsolution.php"><?php include "panels/panel_mathoriathelastsolution.php"; ?></a>
-                                        <a href="games/politicalanimals.php"><?php include "panels/panel_politicalanimals.php"; ?></a>
-                                        <a href="games/pretentiousgame.php"> <?php include "panels/panel_pretentiousgame.php"; ?> </a>
+                                        <?php include "panels/panel_mathoriathelastsolution.php"; ?>
+                                        <?php include "panels/panel_politicalanimals.php"; ?>
+                                        <?php include "panels/panel_pretentiousgame.php"; ?>
                                     </div>
                                 </div>
                                 <div class="item"> <!--Item 3-->
                                     <div class="row">
-                                        <a href="games/reverie.php"> <?php include "panels/panel_reverie.php"; ?> </a>
-                                        <a href="games/runrunsuperv.php"> <?php include "panels/panel_runrunsuperv.php"; ?> </a>
-                                        <a href="games/sodes.php"><?php include "panels/panel_secretsofdeepearthshrine.php"; ?></a>
+                                        <?php include "panels/panel_reverie.php"; ?>
+                                        <?php include "panels/panel_runrunsuperv.php"; ?>
+                                        <?php include "panels/panel_secretsofdeepearthshrine.php"; ?>
                                     </div>
                                     <div class="row">
-                                        <a href="games/theletter.php"><?php include "panels/panel_theletter.php"; ?></a>
-                                        <a href="games/towerfortress.php"><?php include "panels/panel_towerfortress.php"; ?></a>
-                                        <a href="games/warriordefense.php"><?php include "panels/panel_warriordefense.php";?></a>
+                                        <?php include "panels/panel_theletter.php"; ?>
+                                        <?php include "panels/panel_towerfortress.php"; ?>
+                                        <?php include "panels/panel_warriordefense.php";?>
                                     </div>
                                 </div>
                             </div>
