@@ -80,7 +80,7 @@
     </div>
     
     <div class="panel-body">
-    <h4>Price: P259.76 or more</h4>
+    <h4>Price: P259.76</h4>
         <h5>Developed by:
         <a href="../devs/senshilabs.php">Senshi Labs</a>
         </h5>

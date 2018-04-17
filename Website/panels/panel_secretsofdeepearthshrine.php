@@ -6,7 +6,7 @@
         </div>
         <div class="panel-body">
             <h3>Secrets of Deep Earth Shrine</h3>
-            <h4>Price: Free</h4>
+            <h4>Price: P60.00</h4>
             <h4>Developer: <a href="../devs/chroniclegames.php">Chronicle Games</a></h4>
         </div>
         <div class="panel-footer">

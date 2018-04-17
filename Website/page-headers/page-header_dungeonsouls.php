@@ -80,7 +80,7 @@
     </div>
     
     <div class="panel-body">
-    <h4>Price: FREE</h4>
+    <h4>Price: P379.95 </h4>
         <h5>Developed by:
         <a href="../devs/laminastudios.php">Lamina Studios</a>
         </h5>

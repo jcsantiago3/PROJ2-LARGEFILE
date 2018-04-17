@@ -80,7 +80,7 @@
     </div>
     
     <div class="panel-body">
-    <h4>Price: Name Your Own Price</h4>
+    <h4>Price: Name Your Price</h4>
         <h5>Developed by:
         <a href="../devs/senshilabs.php">Senshi Labs</a>
         </h5>

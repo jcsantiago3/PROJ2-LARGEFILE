@@ -7,7 +7,7 @@
         <div class="panel-body">
             <h3>Book 1: Pisces</h3>
             <br class="laptop-medium">
-            <h4>Price: Free</h4>
+            <h4>Price: P259.76</h4>
             <h4>Developer: <a href="../devs/senshilabs.php">senshi.labs</a></h4>
         </div>
         <div class="panel-footer">

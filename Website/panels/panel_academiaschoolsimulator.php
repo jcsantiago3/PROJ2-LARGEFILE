@@ -6,7 +6,7 @@
         </div>
         <div class="panel-body">
             <h3>Academia: School Simulator</h3>
-            <h4>Price: Free</h4>
+            <h4>Price: P499.99</h4>
             <h4>Developer: <a href="../devs/squeakywheelgames.php">Squeaky Wheel</a></h4>
         </div>
         <div class="panel-footer">
