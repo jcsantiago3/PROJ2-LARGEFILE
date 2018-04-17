@@ -1,7 +1,4 @@
 $(document).ready(function () {
-
-
-
     var slideSpeed = 750;
     var $owl = $('.owl-carousel'),
         $nextSlideBtn = $('.nextSlideBtn'),
@@ -21,6 +18,7 @@ $(document).ready(function () {
         onChanged: callback,
         onInitialized: callback
     });
+
 
 
 
@@ -77,9 +75,7 @@ $(document).ready(function () {
             $("#slide-title").show();
             $("#slide-message").hide();
         }, slideSpeed);
-
     });
-
     $("#secondslidereset").click(function () {
         setTimeout(function () {
             $("#slide-a-a").show();
@@ -93,6 +89,50 @@ $(document).ready(function () {
         }, slideSpeed);
     });
 });
+
+function gamespageloaded(){
+    $("#showall").show();
+    $("#atoz").hide();
+    $("#ztoa").hide();
+    $("#asc").hide();
+    $("#desc").hide();
+}
+
+function filter_showall(){
+    $("#showall").show();
+    $("#atoz").hide();
+    $("#ztoa").hide();
+    $("#asc").hide();
+    $("#desc").hide();
+}
+function filter_atoz(){
+    $("#showall").hide();
+    $("#atoz").show();
+    $("#ztoa").hide();
+    $("#asc").hide();
+    $("#desc").hide();
+}
+function filter_ztoa(){
+    $("#showall").hide();
+    $("#atoz").hide();
+    $("#ztoa").show();
+    $("#asc").hide();
+    $("#desc").hide();
+}
+function filter_asc(){
+    $("#showall").hide();
+    $("#atoz").hide();
+    $("#ztoa").hide();
+    $("#asc").show();
+    $("#desc").hide();
+}
+function filter_desc(){
+    $("#showall").hide();
+    $("#atoz").hide();
+    $("#ztoa").hide();
+    $("#asc").hide();
+    $("#desc").show();
+}
 
 function callback(event) {
     var item = event.item.index + 1;

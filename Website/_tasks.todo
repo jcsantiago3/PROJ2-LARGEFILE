@@ -1,33 +1,43 @@
-Projects:
-    ☐ * Anything with colon at the end of the line is a project title
-    ☐ * You can nest projects inside each other
-    ☐ * You can fold projects and sub projects
-    Folding and Indentation:
-
-        ☐ Random Task
-
-    Tasks:
-        New Task:
-            ☐ * Press Cmd+Enter (Ctrl+Enter on Windows and Linux) to add a new task
-            ☐ * You can also use the Command pallette to create a new task by typing To Do:New Task
-            ☐ * If you are on a new line, it will create a new task on the current line
-            ☐ * If you are on a line with some text pressing new task shortcut will convert it to a task
-            ☐ * New tasks are nested as much as the previous task
-        More Actions:
-            ✔ * Complete a task by pressing Alt+d @done
-            ☐ * Re-open a completed task by pressing Alt+d
-            ✘ * Cancel a task by pressing Alt+c @cancelled
-            ☐ * Complete a cancelled task by pressing Alt+d
-            ☐ * You can also use the Command pallette to complete or cancel a task by typing To Do:Complete Task or To Do:Cancel Task 
-        Tagging:
-            ☐ * You can add tags using @ sign, like this @tag
-            ☐ * You can use following pre-existing tags to mark tasks @critical @high @low @today
-            ☐ * Auto intellisense is provided to help you in finding tags
-Check the prices of:
-    ☐ Kill the plumber
-    
-
 Things to consider:
     ☐ Rewrite the about of each dev
     ☐ Check Indigo Entertainment
 
+Games:
+☐ Aca - 499.99
+✔ Adarna - Name @done (2018-4-17 23:59:01)
+☐ Book1 - 259.76
+✔ brush - name @done (2018-4-17 23:59:01)
+✘ Dragon - free @cancelled (2018-4-17 23:59:38)
+✘ Dream - free @cancelled (2018-4-17 23:59:39)
+☐ Dungeon - 379.95
+✘ endless - free @cancelled (2018-4-17 23:59:42)
+☐ kill - 165.95
+✔ math - name @done (2018-4-17 23:58:59)
+☐ political - 250
+☐ pretentious - 69.95
+☐ reverie - 40
+✘ run - free @cancelled (2018-4-17 23:59:43)
+☐ sodes - 60
+☐ letter - 499
+☐ tower - 159.95
+✘ warrior - free @cancelled (2018-4-17 23:59:44)
+
+Prices Ascending:
+    ✘ Dragon - free @cancelled (2018-4-18 00:03:10)
+    ✘ Dream - free @cancelled (2018-4-18 00:03:11)
+    ✘ endless - free @cancelled (2018-4-18 00:03:12)
+    ✘ run - free @cancelled (2018-4-18 00:03:12)
+    ✘ warrior - free @cancelled (2018-4-18 00:03:13)
+    ✔ Adarna - Name @done (2018-4-18 00:03:15)
+    ✔ brush - name @done (2018-4-18 00:03:16)
+    ✔ math - name @done (2018-4-18 00:03:16)
+    ☐ reverie - 40
+    ☐ sodes - 60
+    ☐ pretentious - 69.95
+    ☐ tower - 159.95
+    ☐ kill - 165.95
+    ☐ political - 250
+    ☐ Book1 - 259.76
+    ☐ Dungeon - 379.95
+    ☐ Aca - 499.99
+    ☐ letter - 499
