@@ -88,16 +88,16 @@
                                         <div class="row">
                                             <div class="col-lg-12">
                                                 <div class="para">
-                                                    <p>Game development in the Philippines started way back in the 1992 with
+                                                    <p>Game development in the Philippines started way back in the <strong><u>1992</u></strong> with
                                                         Japan's booming arcades and console development. Many Philippine
                                                         based developers were established, including Micronet Software Manila
                                                         (MSM), a smaller company owned by of Japan based Micronet Co. Ltd.,
                                                         and Japan Media Programing-Cebu (JAMP-Cebu). Since most of the content
                                                         developed by these companies was exclusive for their Japan-based
-                                                        holding company, much of their accomplishments was not heard off
-                                                        in the newspapers, radios, or news in the TV. </p>
-                                                    <p>The Asian financial crisis in 1997 added to the problem, most of these
-                                                        game developers had begun cutting back on the smaller companies based
+                                                        holding company, much of their accomplishments <strong>was not heard off
+                                                        in the newspapers, radios, or news in the TV.</strong> </p>
+                                                    <p>The Asian financial crisis in 1997 added to the problem, most of the
+                                                        Japanese game developers had begun cutting back on the smaller companies based
                                                         in the Philippines because of the shrinking market of entertainment
                                                         products such as video games interfering with further video game
                                                         production in the Philippines.</p>
@@ -117,22 +117,26 @@
                                         <div class="row">
                                             <div class="col-lg-6">
                                                 <div class="para">
-                                                    <p>In mid-1997, a small company called 'Id Software' released a game called
-                                                        'Quake' into the world. Id Software is a small independent developer
-                                                        company and unlike previous games, Quake was developed, published,
-                                                        advertised, and sold by the same small company.</p>
-                                                    <p>This reduced the cost of developing video games, which was mostly been
-                                                        advertising and promotions. Id Software depended on "viral marketing"
-                                                        - distributing freely playable demo versions to the public, allowing
-                                                        a movement to create a demand for the final version of the game.</p>
-                                                    <p>The popularity of the internet at that time contributed for the worldwide
+                                                    <p>In <strong>mid-1997</strong>, a small company called <i>'Id Software'</i> released a game called
+                                                        <strong><i>'Quake'</i></strong> into the world. Id Software is a small independent developer
+                                                        company and unlike previous games, Quake was <i>developed</i>, <i>published</i>,
+                                                        <i>advertised</i>, and <i>sold</i> by the same small company.</p>
+                                                    <p>This reduced the cost of developing video games, <u>
+                                                        which was mostly been
+                                                            advertising and promotions</u>. Id Software depended on <strong>"viral marketing"</strong>
+                                                        - distributing freely playable demo versions to the public, allowing a demand for the final version of the game.</p>
+                                                    <p>The <u>popularity of the internet</u> at that time contributed for the worldwide
                                                         release and promotion of Quake becoming what soon became the practice
-                                                        of video game developers today. By 1999, Id Software showed that
-                                                        a small independent company can reach their goals with small advertising
-                                                        and promotional budget.</p>
+                                                        of video game developers today. By <b>1999</b>, Id Software showed that
+                                                        <u>
+                                                            a small independent company can reach their goals with small advertising
+                                                            and promotional budget.
+                                                        </u></p>
                                                     <p>Id Software's success sparked the rise of independent US-based developers
-                                                        years later, such as Bioware, Blizzard, Valve Software, and Digital
-                                                        Extremes who had been successful in their own.</p>
+                                                        years later, such as <i>Bioware</i>, <i>Blizzard</i>, <i>Valve Software</i>, and <i>
+                                                            Digital
+                                                            Extremes
+                                                        </i> who had been successful in their own.</p>
                                                     <p>By 2000, the success of these start-ups motivated other independent developers
                                                         in the Philippines.</p>
                                                 </div>
@@ -164,20 +168,19 @@
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="para">
-                                                    <p>Among the game developers that was built from 2000 were Fluxion Games, eSoftInteractive,
-                                                    and Anino Entertainment. Game development slowly started entering the mainstream
-                                                    media by the development of Anito: Defend a Land Enraged in 2001 by Anino Entertainment.</p>
+                                                    <p>Among the game developers that was built from 2000 were <strong><i>Fluxion Games</i></strong>, <strong><i>eSoftInteractive</i></strong>,
+                                                    and <strong><i>Anino Entertainment</i></strong>. Game development slowly started entering the mainstream
+                                                    media by the development of <u>Anito: Defend a Land Enraged</u> in 2001 by <i>Anino Entertainment</i>.</p>
                                                     <p>It was one of the few video games released in the 2000's to include the Philippines'
                                                         culture and history as a means for creating a video game. Because of Anito's
                                                         good story and art design, Anino Entertainment soon had fans in the Easter Europe
-                                                        market. However, constraints in marketing and promotion budgets resulted in limited
+                                                        market. However, <u>constraints in marketing and promotion budgets</u> resulted in limited
                                                         exposure to the biggest market for video games at that time, the United States.</p>
                                                     <p>Because of that, entry of promising independent video game developers received very
                                                         little attention from mainstream media and the government. This goes through
                                                         Tantra Online developed by ABS-CBN Entertainment. With it being a Massive Multiplayer
                                                         Online Role-Playing Game (MMORPG), it needed a huge player base for it to survive.
-                                                        A lack of a good backstory was the main reason why gamers lacked interest in
-                                                        Tantra Online, resulting to a small player base and, in turn, slowly dwindled
+                                                        Gamers lacked interest in Tantra Online, resulting to a small player base and, in turn, slowly dwindled
                                                         down.</p>
                                                     <span class="nextSlide" id="slide-batobb">Then...</span>
                                                 </div>
@@ -195,14 +198,18 @@
                                     <div class="panel-body">
                                         <div class="para">
                                             <p>Then, the success of Anino eventually gave way to a new wave of companies that allows long
-                                                development times. This included Laro Co. (Now known as PixelStream), Matahari, and Filpside
-                                                Games. This also paved way to the creation of IGDA Manila, the Philippine chapter of
-                                                Independent Game Developers Association across the globe.</p>
-                                            <p>By 2007, the game development companies who were part of IGDA Manila eventually built GDAP
-                                                (Game Developers Association of the Philippines) to further expand worldwide exposure
+                                                development times. This included Laro Co. (Now known as <i>PixelStream</i>), <i>Matahari</i>, and <i>
+                                                    Filpside
+                                                    Games
+                                                </i>. This also paved way to the creation of <strong><u>IGDA Manila</u></strong>, the Philippine chapter of
+                                                <u>Independent Game Developers Association</u> across the globe.</p>
+                                            <p>By <b>2007</b>, the game development companies who were part of IGDA Manila eventually built <u>GDAP
+                                                (Game Developers Association of the Philippines)</u> to further expand worldwide exposure
                                                 of local video game developers and improve their ability to promote their games. GDAP's
-                                                founding members included Anino Entertainment and Anino Mobile, Flipside Games, Glyph
-                                                Studios, Matahari Studios, PixelStream, Indigo Entertainment, and Secret Six.</p>
+                                                founding members included <u>Anino Entertainment</u> and <u>Anino Mobile</u>, <u>Flipside Games</u>, <u>
+                                                    Glyph
+                                                    Studios
+                                                </u>, <u>Matahari Studios</u>, <u>PixelStream</u>, <u>Indigo Entertainment</u>, and <u>Secret Six</u>.</p>
                                             <button type="button" class="nextSlideBtn reset button-outline" id="thirdslidereset">Oooh! Where do I get their games?</button>
                                         </div>
                                     </div>
@@ -232,6 +239,7 @@
                                                 touchscreen feature has led to the development of many apps on their platform
                                                 through Apple's App Store and Google's Play Store. This made Smartphones a possible
                                                 option to further distribute video games.</p>
+                                                <p>Depending on your device, you may opt to look for <b>Google Play</b> or <b>App Store</b> for you to be able to download the games.</p>
                                             </div>
                                             <div class="col-lg-4">
                                                 <div class="distri-icons">
@@ -243,7 +251,8 @@
                                                     these Steam Curators and they are working hard to show Steam users Philippine
                                                     developed video games. To date, they have curated 63 different video games that
                                                     either include Filipinos in the development team of foreign developers or Philippine
-                                                    developed video games.</p>
+                                                    developed video games. Access the full list of games curated by IGDA Manila <a href="http://store.steampowered.com/curator/955715-IGDA-Manila/">here</a>.</p>
+                                                    <p>You may need to create an <b>account</b> to be able to download and play games from steam.</p> 
                                             </div>
                                             <div class="col-lg-4">
                                                 <div class="distri-icons">
